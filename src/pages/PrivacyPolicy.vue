@@ -6,15 +6,15 @@
       >
         <h2>Privacy Policy</h2>
         <p>
-          Your privacy is important to us. It is LightLabs policy to respect
+          Your privacy is important to us. It is Swift tech policy to respect
           your privacy and comply with any applicable law and regulation
           regarding any personal information we may collect about you, including
           across our website,
-          <span>https://ligtlabs.io</span>, and other sites we own and operate.
+          <span>https://swifttech.io</span>, and other sites we own and operate.
         </p>
         <p>
-          This policy is effective as of 8 August 2022 and was last updated on 8
-          August 2022.
+          This policy is effective as of 8 November 2022 and was last updated on
+          8 August 2022.
         </p>
         <h3>Information We Collect</h3>
         <p>
@@ -210,10 +210,7 @@
           For any questions or concerns regarding your privacy, you may contact
           us using the following details:
         </p>
-        <p>
-          Ligtlabs team<br />
-          team@lightlabs.io
-        </p>
+        <p>Swift Tech</p>
       </AtomInner>
     </AtomSection>
   </TemplateDefault>

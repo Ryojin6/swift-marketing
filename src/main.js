@@ -62,7 +62,7 @@ export default function main(Vue, { head }) {
     },
     {
       name: 'og:site_name',
-      content: 'LightLabs',
+      content: 'SwiftTech',
     },
     {
       name: 'og:description',
