@@ -2,8 +2,7 @@ const tailwind = require('tailwindcss');
 const nesting = require('tailwindcss/nesting');
 
 module.exports = {
-  siteName: `LightLabs | A web3 focussed development company specialising in Discord,
-  Website Design/Development, Smart Contracts and Audits.`,
+  siteName: `Swift Tech | NFT automation, Alpha Community, Portfolio Managment  `,
   siteUrl: process.env.FRONTEND_URI,
   icon: {
     favicon: './src/favicon.png',

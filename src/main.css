@@ -21,11 +21,11 @@
   }
 
   .textLarge {
-    @apply text-3xl 2xl:text-4xl;
+    @apply text-2xl xl:text-3xl 2xl:text-4xl;
   }
 
   .textMedium {
-    @apply text-xl sm:text-2xl 2xl:text-3xl;
+    @apply text-xl  2xl:text-2xl;
   }
 
   .textSmall {

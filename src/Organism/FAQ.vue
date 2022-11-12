@@ -4,18 +4,8 @@
     tp="large"
     bp="large"
     class="relative transition-all duration-1000 ease-in-out"
-    aos-from=" bg-white"
-    aos-to="bg-n-green text-white"
   >
     <AtomInner>
-      <AtomAnimate>
-        <MoleculeTitle
-          title="Lorem ipsum dolor sit amet consectetur adipisicing elit.
-           Tempora placeat porro possimus  dolor sit amet consectetur adipisicing elit.
-           Tempora placeat porro "
-          subtitle="Lorem ipsum"
-        />
-      </AtomAnimate>
       <AtomAnimate class="my-10">
         <MoleculeAccordionCard
           v-for="item in faq"

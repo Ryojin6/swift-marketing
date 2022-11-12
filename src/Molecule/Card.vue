@@ -1,25 +1,23 @@
 <template>
   <AtomAnimate class="relative">
-    <div
-      class="flex flex-col items-center px-4 lg:flex-row lg:space-x-16"
-      :class="{ 'lg:flex-row-reverse lg:space-x-reverse': reverse }"
-    >
-      <div class="lg:w-1/2">
-        <img :src="image" alt="" v-if="image" />
-        <slot name="right" />
+    <div class="flex flex-col items-center px-4">
+      <div class="w-full">
+        <img :src="image" alt="" class="w-full" />
       </div>
-      <div class="flex flex-col pt-16 lg:w-1/2 lg:pt-0">
-        <h2 v-if="subtitle" class="gradientText text-sm font-bold uppercase">
+      <div class="flex w-full flex-col pt-6">
+        <h2 v-if="subtitle" class="text-sm font-bold uppercase text-s-blue">
           {{ subtitle }}
         </h2>
-        <h3 class="textLarge font-bold uppercase">
+        <h3 class="textMedium font-bold uppercase">
           {{ title }}
         </h3>
-        <div class="textSmall prose pt-6 text-white" v-html="description" />
+        <div
+          class="textSmall prose w-full max-w-none pt-6 !text-gray-500"
+          v-html="description"
+        />
         <AtomPlainLink :to="link" class="btn mt-10 self-start" v-if="link">
           {{ buttonTitle }}
         </AtomPlainLink>
-        <slot />
       </div>
     </div>
   </AtomAnimate>

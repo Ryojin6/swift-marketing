@@ -1,5 +1,6 @@
 import '~/main.css';
 import '~/transitions.css';
+
 import aos from './aos';
 
 const SCROLL_OFFSET = 10;
@@ -53,11 +54,11 @@ export default function main(Vue, { head }) {
     },
     {
       name: 'og:image',
-      content: `${process.env.FRONTEND_URI}/ogmeta.png`,
+      content: `${process.env.FRONTEND_URI}/ogmeta2.png`,
     },
     {
       name: 'twitter:image',
-      content: `${process.env.FRONTEND_URI}/ogmeta.png`,
+      content: `${process.env.FRONTEND_URI}/ogmeta2.png`,
     },
     {
       name: 'og:site_name',
@@ -65,13 +66,13 @@ export default function main(Vue, { head }) {
     },
     {
       name: 'og:description',
-      content: `A web3 focussed development company specialising in Discord,
-      Website Design/Development, Smart Contracts and Audits.`,
+      content: `NFT automation, Alpha Community, Portfolio Managment
+`,
     },
     {
       name: 'twitter:card',
-      content: `A web3 focussed development company specialising in Discord,
-      Website Design/Development, Smart Contracts and Audits.`,
+      content: `NFT automation, Alpha Community, Portfolio Managment
+`,
     },
   );
 

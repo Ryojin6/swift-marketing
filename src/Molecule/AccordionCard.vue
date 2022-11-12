@@ -8,7 +8,7 @@
       :aria-controls="`title${_uid}`"
       @click="show = !show"
     >
-      <h3 class="pt-6 text-xl xl:text-2xl 2xl:text-3xl">
+      <h3 class="textSmall pt-6 font-light">
         {{ title }}
       </h3>
       <span class="flex items-center pt-6 font-bold">
@@ -21,7 +21,7 @@
       </span>
     </button>
     <transition name="slide-fade">
-      <div v-if="show" class="textSmall px-4 pt-6">
+      <div v-if="show" class="px-4 pt-6 text-sm">
         {{ description }}
       </div>
     </transition>

@@ -22,6 +22,8 @@ module.exports = {
           green: '#36CD7B',
           navy: '#000011',
           darkpurple: '#1D1A35',
+          navyLight: '#0E0E1F',
+          charcoal: '#09091A',
         },
       },
       screens: {
