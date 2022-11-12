@@ -1,7 +1,7 @@
 <template>
   <TemplateDefault class="relative" homepage>
     <AtomSection
-      class="relative flex w-full items-center justify-center 2xl:py-64"
+      class="relative flex w-full items-center justify-center 2xl:py-48"
       tp="large"
       bp="large"
     >
@@ -27,7 +27,7 @@
           </defs>
         </svg>
       </div>
-      <div class="mx-auto w-full max-w-8xl py-10">
+      <div class="mx-auto w-full max-w-8xl pb-10">
         <div class="z-10 mx-auto w-full space-y-10 text-white md:flex">
           <AtomAnimate position="left" class="md:w-1/2">
             <h1 class="textXLarge gradientText">
