@@ -21,10 +21,9 @@
               <div
                 class="textSmall prose w-full max-w-none pt-6 !text-gray-500"
               >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla
-                voluptates in sunt unde, quasi error maiores a, laborum atque
-                exercitationem nam nobis est dolores minima culpa corrupti! Sed,
-                minima eligendi.
+                Experienced in product management and marketing. I have worked
+                on multiple products and companies across the retail and web3
+                space and am currently building and scaling Swift and Instant.
               </div>
             </div>
           </div>
@@ -35,16 +34,16 @@
             </a>
             <div class="flex w-full flex-col pt-6">
               <h2 class="text-sm font-bold uppercase text-s-blue">
-                Chieff of Staff/Marketing
+                Operation Manager / Marketing
               </h2>
-              <h3 class="textMedium font-bold uppercase">Julian Stafford</h3>
+              <h3 class="textMedium font-bold uppercase">Ruthy#0001</h3>
               <div
                 class="textSmall prose w-full max-w-none pt-6 !text-gray-500"
               >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla
-                voluptates in sunt unde, quasi error maiores a, laborum atque
-                exercitationem nam nobis est dolores minima culpa corrupti! Sed,
-                minima eligendi.
+                Experienced start-up professional and strategist. Took products
+                to international markets and worked across product, sales, and
+                marketing. Now building Surgence and progressing the space
+                through training and democratizing opportunities.
               </div>
             </div>
           </div>
@@ -55,16 +54,15 @@
             </a>
             <div class="flex w-full flex-col pt-6">
               <h2 class="text-sm font-bold uppercase text-s-blue">
-                Chieff of Staff/Community
+                Operation Manager / Community
               </h2>
-              <h3 class="textMedium font-bold uppercase">Bagiulfs</h3>
+              <h3 class="textMedium font-bold uppercase">bagiulfs#3622</h3>
               <div
                 class="textSmall prose w-full max-w-none pt-6 !text-gray-500"
               >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla
-                voluptates in sunt unde, quasi error maiores a, laborum atque
-                exercitationem nam nobis est dolores minima culpa corrupti! Sed,
-                minima eligendi.
+                Experienced moderator excited to jump into community management.
+                Also heavily focused on connecting with other web3 enthusiasts
+                and building solid foundations for communities.
               </div>
             </div>
           </div>
@@ -75,18 +73,15 @@
             </a>
             <div class="flex w-full flex-col pt-6">
               <h2 class="text-sm font-bold uppercase text-s-blue">
-                Lead Back End Developer
+                Full Stack Developer
               </h2>
-              <h3 class="textMedium font-bold uppercase">
-                Vihanga Weerasinghe
-              </h3>
+              <h3 class="textMedium font-bold uppercase">mjk134#1140</h3>
               <div
                 class="textSmall prose w-full max-w-none pt-6 !text-gray-500"
               >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla
-                voluptates in sunt unde, quasi error maiores a, laborum atque
-                exercitationem nam nobis est dolores minima culpa corrupti! Sed,
-                minima eligendi.
+                I am an intermediate developer mainly focused around graphical
+                development, including game dev, and UI. I am also proficient in
+                backend developement.
               </div>
             </div>
           </div>
@@ -97,16 +92,15 @@
             </a>
             <div class="flex w-full flex-col pt-6">
               <h2 class="text-sm font-bold uppercase text-s-blue">
-                Lead Front End Developer
+                Full Stack Developer
               </h2>
-              <h3 class="textMedium font-bold uppercase">Mohit Jena</h3>
+              <h3 class="textMedium font-bold uppercase">Turtlee#1343</h3>
               <div
                 class="textSmall prose w-full max-w-none pt-6 !text-gray-500"
               >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla
-                voluptates in sunt unde, quasi error maiores a, laborum atque
-                exercitationem nam nobis est dolores minima culpa corrupti! Sed,
-                minima eligendi.
+                4+ years of backend/frontend development experience. I enjoy
+                coding in Golang and Javascript as well as being apart of a
+                team.
               </div>
             </div>
           </div>
@@ -117,16 +111,15 @@
             </a>
             <div class="flex w-full flex-col pt-6">
               <h2 class="text-sm font-bold uppercase text-s-blue">
-                Solidity/Back End Developer
+                Full Stack Developer
               </h2>
-              <h3 class="textMedium font-bold uppercase">Shivam Singh</h3>
+              <h3 class="textMedium font-bold uppercase">specials#0001</h3>
               <div
                 class="textSmall prose w-full max-w-none pt-6 !text-gray-500"
               >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla
-                voluptates in sunt unde, quasi error maiores a, laborum atque
-                exercitationem nam nobis est dolores minima culpa corrupti! Sed,
-                minima eligendi.
+                I'm a passionate person who loves diving deep into technology
+                that empowers everyday users. Soon to graduate college with a
+                Bachelor's degree in Computer Science.
               </div>
             </div>
           </div>
@@ -138,31 +131,13 @@
         >
           <div class="flex flex-col items-center px-4">
             <a href="#" class="custom-transition w-full hover:scale-105">
-              <img src="/m1.png" alt="" class="w-20" />
-            </a>
-            <div class="flex w-full flex-col pt-6">
-              <h2 class="text-sm font-bold uppercase text-s-blue">Founder</h2>
-              <h3 class="textMedium font-bold uppercase">Brice Lloyd</h3>
-              <div
-                class="textSmall prose w-full max-w-none pt-6 !text-gray-500"
-              >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla
-                voluptates in sunt unde, quasi error maiores a, laborum atque
-                exercitationem nam nobis est dolores minima culpa corrupti! Sed,
-                minima eligendi.
-              </div>
-            </div>
-          </div>
-
-          <div class="flex flex-col items-center px-4">
-            <a href="#" class="custom-transition w-full hover:scale-105">
-              <img src="/m2.png" alt="" class="w-20" />
+              <img src="/m7.png" alt="" class="w-20" />
             </a>
             <div class="flex w-full flex-col pt-6">
               <h2 class="text-sm font-bold uppercase text-s-blue">
-                Chieff of Staff/Marketing
+                Front End Developer
               </h2>
-              <h3 class="textMedium font-bold uppercase">Julian Stafford</h3>
+              <h3 class="textMedium font-bold uppercase">Ryojin#0001</h3>
               <div
                 class="textSmall prose w-full max-w-none pt-6 !text-gray-500"
               >
@@ -176,82 +151,99 @@
 
           <div class="flex flex-col items-center px-4">
             <a href="#" class="custom-transition w-full hover:scale-105">
-              <img src="/m3.png" alt="" class="w-20" />
+              <img src="/m8.png" alt="" class="w-20" />
             </a>
             <div class="flex w-full flex-col pt-6">
               <h2 class="text-sm font-bold uppercase text-s-blue">
-                Chieff of Staff/Community
-              </h2>
-              <h3 class="textMedium font-bold uppercase">Bagiulfs</h3>
-              <div
-                class="textSmall prose w-full max-w-none pt-6 !text-gray-500"
-              >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla
-                voluptates in sunt unde, quasi error maiores a, laborum atque
-                exercitationem nam nobis est dolores minima culpa corrupti! Sed,
-                minima eligendi.
-              </div>
-            </div>
-          </div>
-
-          <div class="flex flex-col items-center px-4">
-            <a href="#" class="custom-transition w-full hover:scale-105">
-              <img src="/m4.png" alt="" class="w-20" />
-            </a>
-            <div class="flex w-full flex-col pt-6">
-              <h2 class="text-sm font-bold uppercase text-s-blue">
-                Lead Back End Developer
+                Full Stack Developer
               </h2>
               <h3 class="textMedium font-bold uppercase">
-                Vihanga Weerasinghe
+                !0xthibault.eth#8283
               </h3>
               <div
                 class="textSmall prose w-full max-w-none pt-6 !text-gray-500"
               >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla
-                voluptates in sunt unde, quasi error maiores a, laborum atque
-                exercitationem nam nobis est dolores minima culpa corrupti! Sed,
-                minima eligendi.
+                Experienced fullstack developper. Having fun in multiples
+                projects using Nodejs and Typescript.
               </div>
             </div>
           </div>
 
           <div class="flex flex-col items-center px-4">
             <a href="#" class="custom-transition w-full hover:scale-105">
-              <img src="/m5.png" alt="" class="w-20" />
+              <img src="/m9.png" alt="" class="w-20" />
             </a>
             <div class="flex w-full flex-col pt-6">
               <h2 class="text-sm font-bold uppercase text-s-blue">
-                Lead Front End Developer
+                Back End Developer
               </h2>
-              <h3 class="textMedium font-bold uppercase">Mohit Jena</h3>
+              <h3 class="textMedium font-bold uppercase">beans#0404</h3>
               <div
                 class="textSmall prose w-full max-w-none pt-6 !text-gray-500"
               >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla
-                voluptates in sunt unde, quasi error maiores a, laborum atque
-                exercitationem nam nobis est dolores minima culpa corrupti! Sed,
-                minima eligendi.
+                Programmer for over 5 years - self taught. Have a long history
+                in crypto and more recently NFTs. I run my own cryto mining
+                operation and online businesses. I’ve built tools for OriginsNFT
+                and infrastructure for many projects.
               </div>
             </div>
           </div>
 
           <div class="flex flex-col items-center px-4">
             <a href="#" class="custom-transition w-full hover:scale-105">
-              <img src="/m6.png" alt="" class="w-20" />
+              <img src="/m10.png" alt="" class="w-20" />
             </a>
             <div class="flex w-full flex-col pt-6">
               <h2 class="text-sm font-bold uppercase text-s-blue">
-                Solidity/Back End Developer
+                Back End Developer
               </h2>
-              <h3 class="textMedium font-bold uppercase">Shivam Singh</h3>
+              <h3 class="textMedium font-bold uppercase">DevPanther#0001</h3>
               <div
                 class="textSmall prose w-full max-w-none pt-6 !text-gray-500"
               >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla
-                voluptates in sunt unde, quasi error maiores a, laborum atque
-                exercitationem nam nobis est dolores minima culpa corrupti! Sed,
-                minima eligendi.
+                Experienced Web / Mobile app developer with a demonstrated
+                history of working in the computer software, Fintech and
+                Logistics industry. Focused on being a valuable part of any team
+                I am on and believe in the team rising together.
+              </div>
+            </div>
+          </div>
+
+          <div class="flex flex-col items-center px-4">
+            <a href="#" class="custom-transition w-full hover:scale-105">
+              <img src="/m11.png" alt="" class="w-20" />
+            </a>
+            <div class="flex w-full flex-col pt-6">
+              <h2 class="text-sm font-bold uppercase text-s-blue">
+                Back End Developer
+              </h2>
+              <h3 class="textMedium font-bold uppercase">NotManyIdeas#9972</h3>
+              <div
+                class="textSmall prose w-full max-w-none pt-6 !text-gray-500"
+              >
+                Web Developer, passionate about code, math and web3. Always keen
+                to adopt cutting-edge solutions for a wide range of problems,
+                efficiently. Experienced in working in any kind of
+                team/organization, with great sinergy and enthusiasm.
+              </div>
+            </div>
+          </div>
+
+          <div class="flex flex-col items-center px-4">
+            <a href="#" class="custom-transition w-full hover:scale-105">
+              <img src="/m12.png" alt="" class="w-20" />
+            </a>
+            <div class="flex w-full flex-col pt-6">
+              <h2 class="text-sm font-bold uppercase text-s-blue">
+                Back End Developer
+              </h2>
+              <h3 class="textMedium font-bold uppercase">SAMBA#1543</h3>
+              <div
+                class="textSmall prose w-full max-w-none pt-6 !text-gray-500"
+              >
+                20 years old, living in Spain. All time backend developer with
+                over 4 years of experience. Web2 & Web3 enthusiast. Loves to
+                work and learn with more developers.
               </div>
             </div>
           </div>

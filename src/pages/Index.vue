@@ -172,7 +172,14 @@
       bp="large"
       class="gradientSwap transition-all duration-1000 ease-in-out"
     >
-      <MoleculeTitle title="Meet the team" subtitle="Behind Swift" class="" />
+      <MoleculeTitle
+        title="Meet the team"
+        subtitle="Behind Swift"
+        description="
+        Swift Tech is made up of a passionate team of individuals sharing the
+        same goal of revolutionizing the web3 automation space"
+      />
+
       <OrganismTeamSlider />
     </AtomSection>
     <div class="w-full bg-gradient-to-r from-s-pink to-s-violet py-4" />

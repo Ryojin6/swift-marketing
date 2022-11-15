@@ -6,6 +6,9 @@
     <h2 class="textXLarge font-bold text-white">
       {{ title }}
     </h2>
+    <div class="pt-2 text-gray-400">
+      {{ description }}
+    </div>
   </AtomAnimate>
 </template>
 
@@ -17,6 +20,10 @@ export default {
       default: '',
     },
     subtitle: {
+      type: String,
+      default: '',
+    },
+    description: {
       type: String,
       default: '',
     },

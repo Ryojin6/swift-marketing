@@ -24,25 +24,31 @@ export default {
     return {
       faq: [
         {
-          title: 'Lorem ipsume sometsama',
-          description: `Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-          Maxime sapiente ipsa ea inventore consequatur, at sed cum ex voluptate 
-          aperiam ipsum dolorum aliquam quos repellendus delectus ullam nihil hic
-           deserunt?`,
+          title: 'What is Swift Tech?',
+          description: `Swift Technologies is a suite of tools and services for 
+          users and business’s in the web3 space. `,
         },
         {
-          title: 'Lorem ipsume sometsama',
-          description: `Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-          Maxime sapiente ipsa ea inventore consequatur, at sed cum ex voluptate 
-          aperiam ipsum dolorum aliquam quos repellendus delectus ullam nihil hic
-           deserunt?`,
+          title: 'How much does Swift AIO cost?',
+          description: `TBD`,
         },
         {
-          title: 'Lorem ipsume sometsama',
-          description: `Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-          Maxime sapiente ipsa ea inventore consequatur, at sed cum ex voluptate 
-          aperiam ipsum dolorum aliquam quos repellendus delectus ullam nihil hic
-           deserunt?`,
+          title: 'When do you restock?',
+          description: `Swift AIO will restock periodically via Twitter and Discord.`,
+        },
+        {
+          title: 'What operating systems do you support?',
+          description: `We currently support both macOS and Windows.`,
+        },
+        {
+          title: 'How can I purchase Swift AIO?',
+          description: `To purchase Swift AIO please visit our discord or dashboard to
+           join our waitlist and see if we have any available keys. `,
+        },
+        {
+          title: 'How can I check my license key?',
+          description: `Please visit our dashboard to check your active license keys. 
+          https://dashboard.swifttech.app`,
         },
       ],
     };

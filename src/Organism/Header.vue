@@ -17,7 +17,7 @@
       </div>
       <div class="flex w-full items-center justify-end space-x-4 md:w-auto">
         <AtomPlainLink
-          to="#"
+          to="https://dashboard.swifttech.app/"
           class="bg-s-darkpuprle custom-transition whitespace-nowrap rounded-xl border border-s-violet px-6 py-3 text-sm font-bold text-white hover:bg-s-violet"
         >
           Member Dashboard
