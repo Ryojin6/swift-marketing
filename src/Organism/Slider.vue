@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-s-charcoal relative w-full py-4">
+  <div class="relative w-full bg-s-charcoal py-4">
     <hooper
       ref="carousel"
       class="focus:outline-none h-full"

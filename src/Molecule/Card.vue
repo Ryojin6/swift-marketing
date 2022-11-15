@@ -1,5 +1,5 @@
 <template>
-  <AtomAnimate class="relative">
+  <div class="relative">
     <div class="flex flex-col items-center px-4">
       <div class="w-full">
         <img :src="image" alt="" class="w-full" />
@@ -20,7 +20,7 @@
         </AtomPlainLink>
       </div>
     </div>
-  </AtomAnimate>
+  </div>
 </template>
 
 <script>

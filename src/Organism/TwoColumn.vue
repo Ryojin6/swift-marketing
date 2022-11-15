@@ -15,7 +15,7 @@
         <h3 class="textLarge font-bold uppercase">
           {{ title }}
         </h3>
-        <div class="textSmall prose pt-6 text-white" v-html="description" />
+        <div class="textSmall prose pt-6 text-gray-400" v-html="description" />
         <AtomPlainLink :to="link" class="btn mt-10 self-start" v-if="link">
           {{ buttonTitle }}
         </AtomPlainLink>

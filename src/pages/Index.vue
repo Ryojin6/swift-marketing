@@ -31,23 +31,29 @@
         <div class="z-10 mx-auto w-full space-y-10 text-white md:flex">
           <AtomAnimate position="left" class="md:w-1/2">
             <h1 class="textXLarge gradientText">
-              NFT automation, Alpha Community, Portfolio Managment
+              NFT Automation & Alpha Community at its Finest
             </h1>
             <div class="textSmall py-6 text-gray-400 xl:py-12">
-              Lorem ipsum dolor sit amet consectetur. Sed pretium potenti
-              elementum senectus mattis est erat. Vitae non iaculis elit aenean
-              aenean pulvinar amet montes consectetur.
+              Swift Tech is truly every NFT traders dream, providing the most
+              adaptable and dynamic tools on the market to take the everyday
+              trader to the next level.
             </div>
             <div class="flex space-x-4">
-              <AtomPlainLink to="https://opensea.com" class="btn">
-                View on OpenSea
+              <AtomPlainLink
+                to="https://www.youtube.com/channel/UCkSgAsnUMN5KxQlapdHfXgg"
+                class="btn"
+              >
+                Preview Features
               </AtomPlainLink>
-              <AtomPlainLink to="https://opensea.com" class="btn-border">
-                View on OpenSea
+              <AtomPlainLink
+                to="https://discord.gg/swift-tech"
+                class="btn-border"
+              >
+                Join Discord
               </AtomPlainLink>
             </div>
             <div class="texts-gray-400 mt-10 border-l-4 border-s-violet pl-4">
-              We are currently in free beta. Follow our twitter for upcoming
+              We are currently in a free beta. Follow our twitter for upcoming
               restocks!
             </div>
             <div class="mt-10 flex items-center space-x-2 text-gray-500">
@@ -79,13 +85,19 @@
           reverse
           class="text-white"
           image="/about.png"
-          link="#"
+          link="https://discord.gg/swift-tech"
           button-title="Join Discord"
           subtitle="About Us"
           title="Why Swift AIO?"
-          description="Lorem ipsum, dolor sit amet consectetur adipisicing elit. At sint in ad
-        hic est aliquid corrupti aspernatur nesciunt ratione sed soluta neque
-        labore consequuntur, facere itaque natus voluptate maxime magni!"
+          description="Swift AIO is one of the most growing and advancing tools
+           in today's market. With over 20 planned modules and an even more 
+           passionate team, we plan to bring our users both quality and 
+           utility at its finest. At Swift, we understand the want and 
+           need for a seamless, simple, and dynamic user trading experience. 
+           So to fulfill that need, Swift is bringing you a one-stop-shop
+            for everything you need to help inform, visualize, and automate all 
+            your trades. <span class='gradientText font-bold'> Are you ready to take your trading experience
+             to the next level?</span>"
         >
           <img
             src="/dots.png"
@@ -96,74 +108,7 @@
         <AtomDownArrow />
       </AtomInner>
     </AtomSection>
-    <AtomSection
-      bp="large"
-      class="gradientSwap transition-all duration-1000 ease-in-out"
-    >
-      <MoleculeTitle
-        title="Explore our tools"
-        subtitle="MOST COMPLEX TOOLS"
-        class=""
-      />
-      <AtomInner
-        class="grid gap-4 text-white sm:grid-cols-2 md:grid-cols-3 md:gap-10 xl:gap-12"
-      >
-        <MoleculeCard
-          image="/1.png"
-          subtitle="MANAGE YOUR TASKS"
-          title="Multi Chain Minting"
-          description="Lorem ipsum dolor sit amet consectetur.
-           Sed pretium potenti elementum senectus mattis est 
-           erat. Vitae non iaculis elit aenean aenean pulvinar
-            amet montes consectetur."
-        />
-        <MoleculeCard
-          image="/2.png"
-          subtitle="MANAGE YOUR TASKS"
-          title="Multi Wallet Handlings"
-          description="Lorem ipsum dolor sit amet consectetur.
-           Sed pretium potenti elementum senectus mattis est 
-           erat. Vitae non iaculis elit aenean aenean pulvinar
-            amet montes consectetur."
-        />
-        <MoleculeCard
-          image="/3.png"
-          subtitle="MANAGE YOUR TASKS"
-          title="Fund/Token Management "
-          description="Lorem ipsum dolor sit amet consectetur.
-           Sed pretium potenti elementum senectus mattis est 
-           erat. Vitae non iaculis elit aenean aenean pulvinar
-            amet montes consectetur."
-        />
-        <MoleculeCard
-          image="/4.png"
-          subtitle="MANAGE YOUR TASKS"
-          title="In Depth Portfolio Insights"
-          description="Lorem ipsum dolor sit amet consectetur.
-           Sed pretium potenti elementum senectus mattis est 
-           erat. Vitae non iaculis elit aenean aenean pulvinar
-            amet montes consectetur."
-        />
-        <MoleculeCard
-          image="/5.png"
-          subtitle="MANAGE YOUR TASKS"
-          title="Bulk Sweep, Sell ,Cancel , Bid "
-          description="Lorem ipsum dolor sit amet consectetur.
-           Sed pretium potenti elementum senectus mattis est 
-           erat. Vitae non iaculis elit aenean aenean pulvinar
-            amet montes consectetur."
-        />
-        <MoleculeCard
-          image="/6.png"
-          subtitle="MANAGE YOUR TASKS"
-          title="Multi Platform Minting / Sniping"
-          description="Lorem ipsum dolor sit amet consectetur.
-           Sed pretium potenti elementum senectus mattis est 
-           erat. Vitae non iaculis elit aenean aenean pulvinar
-            amet montes consectetur."
-        />
-      </AtomInner>
-    </AtomSection>
+    <OrganismModules />
     <AtomDownArrow />
     <AtomSection
       class="relative flex w-full items-center justify-center 2xl:py-64"
@@ -180,23 +125,35 @@
               Seamless User Experience
             </h3>
             <div class="textSmall py-6 text-gray-400 xl:py-12">
-              Lorem ipsum dolor sit amet consectetur. Sed pretium potenti
-              elementum senectus mattis est erat. Vitae non iaculis elit aenean
-              aenean pulvinar amet montes consectetur.
+              With every great tool, you need an even sexier UI. Welcome to the
+              best of the best user experience, where you’ll never have to leave
+              the app again. With a wide array of
+              <span class="text-white"> tools, calculators,</span> and
+              <span class="text-white">aggregators,</span>
+              <span class="gradientText">
+                Swift users can enjoy a simple and effective trading experience
+                from a single desktop app.
+              </span>
             </div>
             <div
               class="mb-8 rounded-md bg-gradient-to-r from-gray-500 to-s-navy py-2"
             />
             <div
-              class="texts-gray-400 mb-10 mt-4 border-l-4 border-s-green pl-4 text-s-green"
+              class="texts-gray-400 mb-10 mt-4 border-l-4 border-s-green pl-4 font-bold text-s-green"
             >
-              Lorem ipsum dolor sit amet consectetur.
+              Welcome to a top of the line user experience.
             </div>
             <div class="flex space-x-4">
-              <AtomPlainLink to="https://opensea.com" class="btn">
-                View on OpenSea
+              <AtomPlainLink
+                to="https://www.youtube.com/channel/UCkSgAsnUMN5KxQlapdHfXgg"
+                class="btn"
+              >
+                View on Youtube
               </AtomPlainLink>
-              <AtomPlainLink to="https://opensea.com" class="btn-border">
+              <AtomPlainLink
+                to="https://discord.gg/swift-tech"
+                class="btn-border"
+              >
                 Join Discord
               </AtomPlainLink>
             </div>
@@ -205,7 +162,7 @@
             position="right"
             class="md:pin-y-center max-w-6xl md:absolute md:-right-24 md:w-1/2"
           >
-            <img src="/landing.png" alt="" class="w-full" />
+            <img src="/landing2.png" alt="" class="w-full" />
           </AtomAnimate>
         </div>
       </div>
@@ -216,136 +173,7 @@
       class="gradientSwap transition-all duration-1000 ease-in-out"
     >
       <MoleculeTitle title="Meet the team" subtitle="Behind Swift" class="" />
-      <AtomInner
-        class="grid gap-4 text-white sm:grid-cols-2 md:grid-cols-3 md:gap-10 xl:gap-12"
-      >
-        <AtomAnimate class="relative">
-          <div class="flex flex-col items-center px-4">
-            <a href="#" class="custom-transition w-full hover:scale-105">
-              <img src="/m1.png" alt="" class="w-20" />
-            </a>
-            <div class="flex w-full flex-col pt-6">
-              <h2 class="text-sm font-bold uppercase text-s-blue">Founder</h2>
-              <h3 class="textMedium font-bold uppercase">Brice Lloyd</h3>
-              <div
-                class="textSmall prose w-full max-w-none pt-6 !text-gray-500"
-              >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla
-                voluptates in sunt unde, quasi error maiores a, laborum atque
-                exercitationem nam nobis est dolores minima culpa corrupti! Sed,
-                minima eligendi.
-              </div>
-            </div>
-          </div>
-        </AtomAnimate>
-        <AtomAnimate class="relative">
-          <div class="flex flex-col items-center px-4">
-            <a href="#" class="custom-transition w-full hover:scale-105">
-              <img src="/m2.png" alt="" class="w-20" />
-            </a>
-            <div class="flex w-full flex-col pt-6">
-              <h2 class="text-sm font-bold uppercase text-s-blue">
-                Chieff of Staff/Marketing
-              </h2>
-              <h3 class="textMedium font-bold uppercase">Julian Stafford</h3>
-              <div
-                class="textSmall prose w-full max-w-none pt-6 !text-gray-500"
-              >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla
-                voluptates in sunt unde, quasi error maiores a, laborum atque
-                exercitationem nam nobis est dolores minima culpa corrupti! Sed,
-                minima eligendi.
-              </div>
-            </div>
-          </div>
-        </AtomAnimate>
-        <AtomAnimate class="relative">
-          <div class="flex flex-col items-center px-4">
-            <a href="#" class="custom-transition w-full hover:scale-105">
-              <img src="/m3.png" alt="" class="w-20" />
-            </a>
-            <div class="flex w-full flex-col pt-6">
-              <h2 class="text-sm font-bold uppercase text-s-blue">
-                Chieff of Staff/Community
-              </h2>
-              <h3 class="textMedium font-bold uppercase">Bagiulfs</h3>
-              <div
-                class="textSmall prose w-full max-w-none pt-6 !text-gray-500"
-              >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla
-                voluptates in sunt unde, quasi error maiores a, laborum atque
-                exercitationem nam nobis est dolores minima culpa corrupti! Sed,
-                minima eligendi.
-              </div>
-            </div>
-          </div>
-        </AtomAnimate>
-        <AtomAnimate class="relative">
-          <div class="flex flex-col items-center px-4">
-            <a href="#" class="custom-transition w-full hover:scale-105">
-              <img src="/m4.png" alt="" class="w-20" />
-            </a>
-            <div class="flex w-full flex-col pt-6">
-              <h2 class="text-sm font-bold uppercase text-s-blue">
-                Lead Back End Developer
-              </h2>
-              <h3 class="textMedium font-bold uppercase">
-                Vihanga Weerasinghe
-              </h3>
-              <div
-                class="textSmall prose w-full max-w-none pt-6 !text-gray-500"
-              >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla
-                voluptates in sunt unde, quasi error maiores a, laborum atque
-                exercitationem nam nobis est dolores minima culpa corrupti! Sed,
-                minima eligendi.
-              </div>
-            </div>
-          </div>
-        </AtomAnimate>
-        <AtomAnimate class="relative">
-          <div class="flex flex-col items-center px-4">
-            <a href="#" class="custom-transition w-full hover:scale-105">
-              <img src="/m5.png" alt="" class="w-20" />
-            </a>
-            <div class="flex w-full flex-col pt-6">
-              <h2 class="text-sm font-bold uppercase text-s-blue">
-                Lead Front End Developer
-              </h2>
-              <h3 class="textMedium font-bold uppercase">Mohit Jena</h3>
-              <div
-                class="textSmall prose w-full max-w-none pt-6 !text-gray-500"
-              >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla
-                voluptates in sunt unde, quasi error maiores a, laborum atque
-                exercitationem nam nobis est dolores minima culpa corrupti! Sed,
-                minima eligendi.
-              </div>
-            </div>
-          </div>
-        </AtomAnimate>
-        <AtomAnimate class="relative">
-          <div class="flex flex-col items-center px-4">
-            <a href="#" class="custom-transition w-full hover:scale-105">
-              <img src="/m6.png" alt="" class="w-20" />
-            </a>
-            <div class="flex w-full flex-col pt-6">
-              <h2 class="text-sm font-bold uppercase text-s-blue">
-                Solidity/Back End Developer
-              </h2>
-              <h3 class="textMedium font-bold uppercase">Shivam Singh</h3>
-              <div
-                class="textSmall prose w-full max-w-none pt-6 !text-gray-500"
-              >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla
-                voluptates in sunt unde, quasi error maiores a, laborum atque
-                exercitationem nam nobis est dolores minima culpa corrupti! Sed,
-                minima eligendi.
-              </div>
-            </div>
-          </div>
-        </AtomAnimate>
-      </AtomInner>
+      <OrganismTeamSlider />
     </AtomSection>
     <div class="w-full bg-gradient-to-r from-s-pink to-s-violet py-4" />
     <OrganismSlider />
