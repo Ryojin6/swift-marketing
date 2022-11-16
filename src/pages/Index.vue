@@ -14,7 +14,6 @@
           <path fill="url(#a)" d="M1088 955 183.391 0H-7v955h1095Z" />
           <defs>
             <linearGradient
-              id="a"
               x1="702.5"
               x2="-150.471"
               y1="387.668"
