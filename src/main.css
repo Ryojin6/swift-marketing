@@ -7,7 +7,7 @@
     @apply hover:bg-white;
   }
   .gradientText {
-    @apply bg-gradient-to-r from-s-pink to-s-violet bg-clip-text text-transparent;
+    @apply bg-gradient-to-r from-s-pink to-s-violet bg-clip-text !text-transparent;
   }
   html {
     scroll-behavior: smooth;
