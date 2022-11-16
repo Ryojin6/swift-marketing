@@ -1,5 +1,5 @@
 <template>
-  <div class="relative w-full bg-s-charcoal py-4">
+  <div class="relative w-full bg-s-charcoal py-4" id="partners">
     <hooper
       ref="carousel"
       class="focus:outline-none h-full"
@@ -7,12 +7,44 @@
       :infinite-scroll="true"
       :settings="hooperSettings"
     >
-      <slide v-for="i in 10">
+      <slide>
         <div
           class="m-4 flex items-center space-x-4 rounded-md border border-s-darkpurple bg-s-navyLight p-4 text-white"
         >
-          <div class="bg-white/10 p-8">Logo</div>
-          <div>Partnership Name</div>
+          <div class="w-16 bg-white/10"><img src="/divine.png" alt="" /></div>
+          <div class="text-sm font-bold">Divine Providence</div>
+        </div>
+      </slide>
+      <slide>
+        <div
+          class="m-4 flex items-center space-x-4 rounded-md border border-s-darkpurple bg-s-navyLight p-4 text-white blur-sm"
+        >
+          <div class="h-16 w-16 bg-white/10" />
+          <div class="text-sm font-bold">Divine Providence</div>
+        </div>
+      </slide>
+      <slide>
+        <div
+          class="m-4 flex items-center space-x-4 rounded-md border border-s-darkpurple bg-s-navyLight p-4 text-white blur-sm"
+        >
+          <div class="h-16 w-16 bg-white/10" />
+          <div class="text-sm font-bold">Divine Providence</div>
+        </div>
+      </slide>
+      <slide>
+        <div
+          class="m-4 flex items-center space-x-4 rounded-md border border-s-darkpurple bg-s-navyLight p-4 text-white blur-sm"
+        >
+          <div class="h-16 w-16 bg-white/10" />
+          <div class="text-sm font-bold">Divine Providence</div>
+        </div>
+      </slide>
+      <slide>
+        <div
+          class="m-4 flex items-center space-x-4 rounded-md border border-s-darkpurple bg-s-navyLight p-4 text-white blur-sm"
+        >
+          <div class="h-16 w-16 bg-white/10" />
+          <div class="text-sm font-bold">Divine Providence</div>
         </div>
       </slide>
     </hooper>
@@ -45,6 +77,7 @@ export default {
       hooperSettings: {
         itemsToShow: 2.5,
         centerMode: true,
+        autoPlay: true,
         breakpoints: {
           800: {
             centerMode: false,

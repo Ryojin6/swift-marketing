@@ -3,10 +3,25 @@ import '~/transitions.css';
 
 import aos from './aos';
 
+const VueScrollTo = require('vue-scrollto');
+
 const SCROLL_OFFSET = 10;
 
 export default function main(Vue, { head }) {
   Vue.directive('aos', aos);
+  Vue.use(VueScrollTo, {
+    container: 'body',
+    duration: 500,
+    easing: 'ease',
+    offset: -150,
+    force: true,
+    cancelable: true,
+    onStart: false,
+    onDone: false,
+    onCancel: false,
+    x: false,
+    y: true,
+  });
 
   const files = require.context('./', true, /\.vue$/i);
 

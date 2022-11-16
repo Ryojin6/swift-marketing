@@ -39,10 +39,7 @@
               trader to the next level.
             </div>
             <div class="flex space-x-4">
-              <AtomPlainLink
-                to="https://www.youtube.com/channel/UCkSgAsnUMN5KxQlapdHfXgg"
-                class="btn"
-              >
+              <AtomPlainLink to="#features" class="btn">
                 Preview Features
               </AtomPlainLink>
               <AtomPlainLink
@@ -96,7 +93,8 @@
            need for a seamless, simple, and dynamic user trading experience. 
            So to fulfill that need, Swift is bringing you a one-stop-shop
             for everything you need to help inform, visualize, and automate all 
-            your trades. <span class='gradientText font-bold'> Are you ready to take your trading experience
+            your trades. <span class='gradientText font-bold'> Are you ready to take
+               your trading experience
              to the next level?</span>"
         >
           <img
@@ -108,7 +106,7 @@
         <AtomDownArrow />
       </AtomInner>
     </AtomSection>
-    <OrganismModules />
+    <OrganismFeatures id="features" />
     <AtomDownArrow />
     <AtomSection
       class="relative flex w-full items-center justify-center 2xl:py-64"
@@ -173,6 +171,7 @@
       class="gradientSwap transition-all duration-1000 ease-in-out"
     >
       <MoleculeTitle
+        id="team"
         title="Meet the team"
         subtitle="Behind Swift"
         description="
@@ -184,42 +183,6 @@
     </AtomSection>
     <div class="w-full bg-gradient-to-r from-s-pink to-s-violet py-4" />
     <OrganismSlider />
-    <AtomSection tp="small" bp="small" class="relative z-10 bg-s-navy">
-      <AtomInner>
-        <OrganismTwoColumn
-          reverse
-          class="text-white"
-          subtitle="FAQ"
-          title="Frequently Asked Questions"
-          description="For business / support inquiries please contact us via
-           discord or at support@swifttech.app"
-        >
-          <div
-            class="mt-10 flex justify-between space-x-4 rounded-md bg-gradient-to-r from-s-violet to-s-pink p-5 text-white"
-          >
-            <div class="flex flex-col justify-between">
-              <div>
-                <div class="textSmall font-bold">Follow our Twitter</div>
-                <div class="text-xs">Keep up to date with us!</div>
-              </div>
-              <a
-                href="https://twitter.com/SwiftTechApp"
-                target="_blank"
-                class="textSmall font-bold"
-                >@SwiftTechApp</a
-              >
-            </div>
-            <div
-              class="flex h-24 w-24 items-center justify-center rounded-md bg-white"
-            >
-              <AtomIconTwitter class="!w-10 text-s-navy" />
-            </div>
-          </div>
-          <template #right>
-            <OrganismFAQ />
-          </template>
-        </OrganismTwoColumn>
-      </AtomInner>
-    </AtomSection>
+    <OrganismFAQ />
   </TemplateDefault>
 </template>

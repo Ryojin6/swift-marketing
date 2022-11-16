@@ -1,5 +1,5 @@
 <template>
-  <div class="relative w-full py-4">
+  <AtomAnimate class="relative w-full py-4">
     <hooper
       ref="carousel"
       class="focus:outline-none h-full"
@@ -12,52 +12,152 @@
           class="grid gap-10 text-white sm:grid-cols-2 lg:grid-cols-3 xl:gap-12"
         >
           <MoleculeCard
-            image="/s13.png"
-            subtitle="Preformance and Accuracy"
-            title="Multi Chain Minting"
-            description="Never miss a mint again with our fully customizable 
-            multi-chain minter, accompanied by our in-house discord drop Callender 
-            and configuration guides to help you stay up to date."
+            image="/f1.png"
+            subtitle="Minting"
+            title="Ethereum"
+            description="Our Ethereum module supports an array of utilities for our users to
+         leverage, including contract minting via FlashBots or Mainnet, custom RPCs, 
+         speed-up transactions, and so much more."
           />
           <MoleculeCard
-            image="/s14.png"
-            subtitle="Orginaztion and Insight"
-            title="Multi Wallet Handlings"
-            description="With Swift, you’ll never have to worry about wallet
-             management again. With over 5 different wallet functions, we give 
-             users full access and control over their multi-wallet trading needs."
+            image="/f2.png"
+            subtitle="Minting"
+            title="Solana"
+            description="Our Solana module supports multi-functional and platform minting. 
+        Featuring CMV2, MonkeLabs, LMNFT, CIVIC support, and Magic. Our users have 
+        complete control and access to everything on the Solana chain. "
           />
           <MoleculeCard
-            image="/s15.png"
-            subtitle="Smooth, Simple, and Easy"
-            title="Fund/Token Management "
-            description="Managing your money and NFTs has never been more simple 
-            with Swift. With our simple and easy UI interface, our users can meet 
-            all their management needs with a simple tap of a button."
+            image="/f3.png"
+            subtitle="Minting"
+            title="Aptos"
+            description="Our Aptos module supports an array of utilities for our users to
+         leverage, including custom tasks for Topaz, Bluemove, and LMNFT launchpad minting. "
           />
           <MoleculeCard
-            image="/s16.png"
-            subtitle="Trakcing and Analysis"
-            title="In Depth Portfolio Insights"
-            description="Getting insights for your portfolio has never been easier 
-            with Swift. Straight from our dashboard, our users can get clear and
-             accurate insights into how they’ve done via their trading experience. "
+            image="/f4.png"
+            subtitle="Sniping / Bulk Actions"
+            title="Opensea"
+            description="Our Opensea module allows users to monitor and purchase listings on 
+        chain based on user custom inputs. Along with sniping, we support bulk actions like
+         listing, sweeping, bidding, and canceling for collections and NFTs."
           />
           <MoleculeCard
-            image="/s17.png"
-            subtitle="Smooth NFT Aggregation"
-            title="Bulk Sweep, Sell ,Cancel , Bid "
-            description="NFT aggregation has never been better. With multi-marketplace 
-            support, we give users full accessibility to ensure they can finish the
-             trade while never needing to leave the app."
+            image="/f5.png"
+            subtitle="Sniping / Bulk Actions"
+            title="Looksrare"
+            description="Our Looksrare module allows users to monitor and purchase listings based
+         on user custom inputs. Along with sniping, we support bulk actions like listing,
+          sweeping, bidding, and canceling for collections and NFTs."
           />
           <MoleculeCard
-            image="/s18.png"
-            subtitle="Every Module You’ll Ever Need"
-            title="Multi Platform Minting / Sniping"
-            description="With Swift, you can truly never miss a beat. Whether it's a 
-            new mint, a trending collection, or a popular raffle, Swift has your back to
-             help you smoothly automate and trade on every platform you want and need."
+            image="/f6.png"
+            subtitle="Sniping / Bulk Actions"
+            title="X2Y2"
+            description="Our X2Y2 module allows users to monitor and purchase listings based on 
+        user custom inputs. Along with sniping, we support bulk actions like listing, sweeping, 
+        bidding, and canceling for collections and NFTs."
+          />
+        </AtomInner>
+      </slide>
+      <slide>
+        <AtomInner
+          class="grid gap-10 text-white sm:grid-cols-2 lg:grid-cols-3 xl:gap-12"
+        >
+          <MoleculeCard
+            image="/s1.png"
+            subtitle="Sniping"
+            title="SudoSwap"
+            description="Our SudoSwap module allows users to easily monitor and purchase NFTs
+          based on the collection and other user inputs."
+          />
+
+          <MoleculeCard
+            image="/s2.png"
+            subtitle="Minting / Sniping"
+            title="Magic Eden"
+            description="Our Magic Eden Module allows users to both mint and snipe
+          Solana/Ethereum NFTs on their platform based on user inputs."
+          />
+
+          <MoleculeCard
+            image="/s3.png"
+            subtitle="Minting"
+            title="Blur.io"
+            description="Our Blur.io module is packed with utilities allowing the user to
+             monitor, snipe, sweep, list, and cancel NFT listings, all with a touch of a button. "
+          />
+          <MoleculeCard
+            image="/s4.png"
+            subtitle="Raffle Botting"
+            title="Premint"
+            description="Our Premint module gives our users full control over their accounts
+             to help them mass enter and win multiple raffles at a time with a single touch of
+              a button."
+          />
+          <MoleculeCard
+            image="/s5.png"
+            subtitle="Minting"
+            title="FAIR.XYZ"
+            description="Our FAIR.XYZ module allows users to mass mint with multiple wallets 
+            via the FAIR platform giving users the ability to secure the mint on the mint day.  "
+          />
+          <MoleculeCard
+            image="/s6.png"
+            subtitle="Minting"
+            title="LaunchMyNFT"
+            description="Our LaunchMyNFT module supports multi-wallet minting for Solana 
+            and APTOS mints, allowing the user to never miss a mint again via LaucnhMyNFT. "
+          />
+        </AtomInner>
+      </slide>
+
+      <slide>
+        <AtomInner
+          class="grid gap-10 text-white sm:grid-cols-2 lg:grid-cols-3 xl:gap-12"
+        >
+          <MoleculeCard
+            image="/s7.png"
+            subtitle="Minting / Sniping"
+            title="Topaz"
+            description="Our Topaz module allows users to take full control over their minting
+             and sniping capabilites via the Topaz platform. "
+          />
+          <MoleculeCard
+            image="/s8.png"
+            subtitle="Minting / Sniping"
+            title="BlueMove"
+            description="Our Magic Eden Module allows users to both mint and snipe Solana/Ethereum
+             NFTs on their platform based on user inputs. "
+          />
+          <MoleculeCard
+            image="/s9.png"
+            subtitle="Minting"
+            title="MonkeLabs"
+            description="Our Blur.io module is packed with utilities allowing the user to monitor,
+             snipe, sweep, list, and cancel NFT listings, all with a touch of a button.  "
+          />
+          <MoleculeCard
+            image="/s10.png"
+            subtitle="Minting"
+            title="RECUR"
+            description="Our Premint module gives our users full control over their accounts to 
+            help 
+            them mass enter and win multiple raffles at a time with a single touch of a button."
+          />
+          <MoleculeCard
+            image="/s11.png"
+            subtitle="Sniping"
+            title="Coinbase"
+            description="Our FAIR.XYZ module allows users to mass mint with multiple wallets 
+            via the FAIR platform giving users the ability to secure the mint on the mint day. "
+          />
+          <MoleculeCard
+            image="/s12.png"
+            subtitle="Minting"
+            title="droppp.io"
+            description="Our LaunchMyNFT module supports multi-wallet minting for Solana 
+            and APTOS mints, allowing the user to never miss a mint again via LaucnhMyNFT. "
           />
         </AtomInner>
       </slide>
@@ -85,7 +185,7 @@
         </button>
       </div>
     </div>
-  </div>
+  </AtomAnimate>
 </template>
 
 <script>
@@ -133,22 +233,3 @@ export default {
   },
 };
 </script>
-
-<style media="screen">
-.hooper {
-  height: 100%;
-}
-.hooper-indicator {
-  @apply border-2 border-solid border-white bg-transparent;
-}
-.hooper-pagination {
-  @apply -bottom-16 py-2;
-}
-.hooper-indicator:hover,
-.hooper-indicator.is-active {
-  @apply border-white bg-white;
-}
-.hooper-indicator {
-  @apply h-3 w-3 rounded-full;
-}
-</style>

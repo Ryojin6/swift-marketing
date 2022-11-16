@@ -1,6 +1,7 @@
 <template>
   <a
-    :href="item.link"
+    href="#"
+    v-scroll-to="item.link"
     class="menu-item relative transition-all duration-300 ease-in-out scrolled:text-base"
     >{{ item.label }}</a
   >

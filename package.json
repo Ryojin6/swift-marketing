@@ -17,7 +17,8 @@
     "gridsome-plugin-robots": "^0.2.1",
     "hooper": "^0.3.4",
     "postmark": "^3.0.11",
-    "tailwindcss": "npm:@tailwindcss/postcss7-compat"
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat",
+    "vue-scrollto": "^2.20.0"
   },
   "devDependencies": {
     "@babel/eslint-parser": "^7.16.0",

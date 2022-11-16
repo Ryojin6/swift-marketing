@@ -1,5 +1,5 @@
 <template>
-  <div class="relative w-full py-4">
+  <AtomAnimate class="relative w-full py-4">
     <hooper
       ref="carousel"
       class="focus:outline-none h-full"
@@ -12,7 +12,11 @@
           class="grid gap-10 text-white sm:grid-cols-2 lg:grid-cols-3 xl:gap-12"
         >
           <div class="flex flex-col items-center px-4">
-            <a href="#" class="custom-transition w-full hover:scale-105">
+            <a
+              href="https://twitter.com/briceplloyd"
+              class="custom-transition w-full hover:scale-105"
+              target="_blank"
+            >
               <img src="/m1.png" alt="" class="w-20" />
             </a>
             <div class="flex w-full flex-col pt-6">
@@ -29,7 +33,11 @@
           </div>
 
           <div class="flex flex-col items-center px-4">
-            <a href="#" class="custom-transition w-full hover:scale-105">
+            <a
+              href="https://twitter.com/ruthynft"
+              class="custom-transition w-full hover:scale-105"
+              target="_blank"
+            >
               <img src="/m2.png" alt="" class="w-20" />
             </a>
             <div class="flex w-full flex-col pt-6">
@@ -49,7 +57,11 @@
           </div>
 
           <div class="flex flex-col items-center px-4">
-            <a href="#" class="custom-transition w-full hover:scale-105">
+            <a
+              href="https://twitter.com/852bagiulfs"
+              class="custom-transition w-full hover:scale-105"
+              target="_blank"
+            >
               <img src="/m3.png" alt="" class="w-20" />
             </a>
             <div class="flex w-full flex-col pt-6">
@@ -68,8 +80,12 @@
           </div>
 
           <div class="flex flex-col items-center px-4">
-            <a href="#" class="custom-transition w-full hover:scale-105">
-              <img src="/m4.png" alt="" class="w-20" />
+            <a
+              href="https://twitter.com/mjk_yt"
+              class="custom-transition w-full hover:scale-105"
+              target="_blank"
+            >
+              <img src="/m5.png" alt="" class="w-20" />
             </a>
             <div class="flex w-full flex-col pt-6">
               <h2 class="text-sm font-bold uppercase text-s-blue">
@@ -87,8 +103,12 @@
           </div>
 
           <div class="flex flex-col items-center px-4">
-            <a href="#" class="custom-transition w-full hover:scale-105">
-              <img src="/m5.png" alt="" class="w-20" />
+            <a
+              href="https://twitter.com/vihanganator"
+              class="custom-transition w-full hover:scale-105"
+              target="_blank"
+            >
+              <img src="/m4.png" alt="" class="w-20" />
             </a>
             <div class="flex w-full flex-col pt-6">
               <h2 class="text-sm font-bold uppercase text-s-blue">
@@ -106,7 +126,11 @@
           </div>
 
           <div class="flex flex-col items-center px-4">
-            <a href="#" class="custom-transition w-full hover:scale-105">
+            <a
+              href="https://twitter.com/specialsdevs"
+              class="custom-transition w-full hover:scale-105"
+              target="_blank"
+            >
               <img src="/m6.png" alt="" class="w-20" />
             </a>
             <div class="flex w-full flex-col pt-6">
@@ -130,7 +154,11 @@
           class="grid gap-10 text-white sm:grid-cols-2 lg:grid-cols-3 xl:gap-12"
         >
           <div class="flex flex-col items-center px-4">
-            <a href="#" class="custom-transition w-full hover:scale-105">
+            <a
+              href=" https://twitter.com/ryojn6"
+              class="custom-transition w-full hover:scale-105"
+              target="_blank"
+            >
               <img src="/m7.png" alt="" class="w-20" />
             </a>
             <div class="flex w-full flex-col pt-6">
@@ -141,16 +169,18 @@
               <div
                 class="textSmall prose w-full max-w-none pt-6 !text-gray-500"
               >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla
-                voluptates in sunt unde, quasi error maiores a, laborum atque
-                exercitationem nam nobis est dolores minima culpa corrupti! Sed,
-                minima eligendi.
+                8+ years of front end and ux/ui experience in digital agency. I
+                am passionate about clean and responsive UI.
               </div>
             </div>
           </div>
 
           <div class="flex flex-col items-center px-4">
-            <a href="#" class="custom-transition w-full hover:scale-105">
+            <a
+              href=" https://twitter.com/0xthibaulteth"
+              class="custom-transition w-full hover:scale-105"
+              target="_blank"
+            >
               <img src="/m8.png" alt="" class="w-20" />
             </a>
             <div class="flex w-full flex-col pt-6">
@@ -170,7 +200,11 @@
           </div>
 
           <div class="flex flex-col items-center px-4">
-            <a href="#" class="custom-transition w-full hover:scale-105">
+            <a
+              href=" https://twitter.com/beansandeth"
+              class="custom-transition w-full hover:scale-105"
+              target="_blank"
+            >
               <img src="/m9.png" alt="" class="w-20" />
             </a>
             <div class="flex w-full flex-col pt-6">
@@ -190,8 +224,12 @@
           </div>
 
           <div class="flex flex-col items-center px-4">
-            <a href="#" class="custom-transition w-full hover:scale-105">
-              <img src="/m10.png" alt="" class="w-20" />
+            <a
+              href="https://twitter.com/devpanther999"
+              class="custom-transition w-full hover:scale-105"
+              target="_blank"
+            >
+              <img src="/m12.png" alt="" class="w-20" />
             </a>
             <div class="flex w-full flex-col pt-6">
               <h2 class="text-sm font-bold uppercase text-s-blue">
@@ -210,7 +248,11 @@
           </div>
 
           <div class="flex flex-col items-center px-4">
-            <a href="#" class="custom-transition w-full hover:scale-105">
+            <a
+              href="https://twitter.com/notmanyideas"
+              class="custom-transition w-full hover:scale-105"
+              target="_blank"
+            >
               <img src="/m11.png" alt="" class="w-20" />
             </a>
             <div class="flex w-full flex-col pt-6">
@@ -230,8 +272,12 @@
           </div>
 
           <div class="flex flex-col items-center px-4">
-            <a href="#" class="custom-transition w-full hover:scale-105">
-              <img src="/m12.png" alt="" class="w-20" />
+            <a
+              href=" https://twitter.com/gildedddd"
+              class="custom-transition w-full hover:scale-105"
+              target="_blank"
+            >
+              <img src="/m10.png" alt="" class="w-20" />
             </a>
             <div class="flex w-full flex-col pt-6">
               <h2 class="text-sm font-bold uppercase text-s-blue">
@@ -273,7 +319,7 @@
         </button>
       </div>
     </div>
-  </div>
+  </AtomAnimate>
 </template>
 
 <script>

@@ -14,7 +14,7 @@
       <transition name="slide-fade">
         <div
           v-if="toggled"
-          class="absolute inset-0 z-50 flex h-screen w-full flex-col items-center justify-center space-y-6 xl:shadow-xl"
+          class="absolute inset-0 z-50 flex h-screen w-full flex-col items-center justify-center space-y-6 bg-s-navy xl:shadow-xl"
           @click="toggled = !toggled"
         >
           <AtomSiteMenuItem
