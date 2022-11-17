@@ -1,18 +1,10 @@
 <template>
-  <AtomSection
+  <div
     id="faq"
-    v-aos
-    tp="large"
-    bp="large"
     class="relative text-white transition-all duration-1000 ease-in-out"
   >
     <div class="mx-auto max-w-4xl">
       <AtomAnimate class="my-10">
-        <MoleculeTitle
-          title="FAQ"
-          description="For business / support inquiries please contact us via
-           discord or at support@swifttech.app"
-        />
         <MoleculeAccordionCard
           v-for="item in faq"
           :key="item.id"
@@ -21,7 +13,7 @@
         />
       </AtomAnimate>
     </div>
-  </AtomSection>
+  </div>
 </template>
 
 <script>

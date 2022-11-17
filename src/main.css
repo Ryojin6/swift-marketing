@@ -6,8 +6,19 @@
   .scrollHover {
     @apply hover:bg-white;
   }
-  .gradientText {
-    @apply bg-gradient-to-r from-s-pink to-s-violet bg-clip-text !text-transparent;
+  .prose p,
+  .prose h1,
+  .prose h2,
+  .prose h3,
+  .prose span,
+  .prose a,
+  .prose button,
+  .prose strong {
+    @apply text-white !important;
+  }
+  .gradientText,
+  span.gradientText {
+    @apply !bg-gradient-to-r !from-s-pink !to-s-violet !bg-clip-text !text-transparent;
   }
   html {
     scroll-behavior: smooth;

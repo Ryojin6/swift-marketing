@@ -5763,16 +5763,3 @@ Calibri;color:#595959;mso-themecolor:text1;mso-themetint:166;"
     </div>
   </TemplateDefault>
 </template>
-
-<style>
-p,
-h1,
-h2,
-h3,
-span,
-a,
-button,
-strong {
-  @apply text-white !important;
-}
-</style>

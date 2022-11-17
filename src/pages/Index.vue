@@ -48,7 +48,7 @@
                 Join Discord
               </AtomPlainLink>
             </div>
-            <div class="texts-gray-400 mt-10 border-l-4 border-s-violet pl-4">
+            <div class="mt-10 border-l-4 border-s-violet pl-4 text-gray-400">
               We are currently in a free beta. Follow our twitter for upcoming
               restocks!
             </div>
@@ -92,7 +92,7 @@
            need for a seamless, simple, and dynamic user trading experience. 
            So to fulfill that need, Swift is bringing you a one-stop-shop
             for everything you need to help inform, visualize, and automate all 
-            your trades. <span class='gradientText font-bold'> Are you ready to take
+            your trades. <span class='gradientText inline'> Are you ready to take
                your trading experience
              to the next level?</span>"
         >
@@ -121,7 +121,7 @@
             <h3 class="textLarge font-bold uppercase">
               Seamless User Experience
             </h3>
-            <div class="textSmall py-6 text-gray-400 xl:py-12">
+            <div class="textSmall py-6 font-semibold text-gray-400 xl:py-12">
               With every great tool, you need an even sexier UI. Welcome to the
               best of the best user experience, where you’ll never have to leave
               the app again. With a wide array of
@@ -182,6 +182,42 @@
     </AtomSection>
     <div class="w-full bg-gradient-to-r from-s-pink to-s-violet py-4" />
     <OrganismSlider />
-    <OrganismFAQ />
+    <AtomSection tp="small" bp="small" class="relative z-10 bg-s-navy">
+      <AtomInner>
+        <OrganismTwoColumn
+          reverse
+          class="text-white"
+          subtitle="FAQ"
+          title="Frequently Asked Questions"
+          description="For business / support inquiries please contact us via
+           discord or at support@swifttech.app"
+        >
+          <div
+            class="mt-10 flex justify-between space-x-4 rounded-md bg-gradient-to-r from-s-violet to-s-pink p-5 text-white"
+          >
+            <div class="flex flex-col justify-between">
+              <div>
+                <div class="textSmall font-bold">Follow our Twitter</div>
+                <div class="text-xs">Keep up to date with us!</div>
+              </div>
+              <a
+                href="https://twitter.com/SwiftTechApp"
+                target="_blank"
+                class="textSmall font-bold"
+                >@SwiftTechApp</a
+              >
+            </div>
+            <div
+              class="flex h-24 w-24 items-center justify-center rounded-md bg-white"
+            >
+              <AtomIconTwitter class="!w-10 text-s-navy" />
+            </div>
+          </div>
+          <template #right>
+            <OrganismFAQ />
+          </template>
+        </OrganismTwoColumn>
+      </AtomInner>
+    </AtomSection>
   </TemplateDefault>
 </template>

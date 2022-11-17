@@ -8,10 +8,10 @@
       :aria-controls="`title${_uid}`"
       @click="show = !show"
     >
-      <h3 class="textSmall pt-6 font-light">
+      <h3 class="textSmall pt-6 font-bold">
         {{ title }}
       </h3>
-      <span class="flex items-center pt-6 font-bold">
+      <span class="font-se,obold flex items-center pt-6">
         <span
           class="transform transition-transform duration-300"
           :class="show ? '-rotate-90' : 'rotate-90'"

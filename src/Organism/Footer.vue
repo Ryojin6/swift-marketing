@@ -31,10 +31,14 @@
           link="https://discord.gg/swift-tech"
           class="text-s-purple"
         />
+        <AtomIconYoutube
+          link="https://www.youtube.com/channel/UCkSgAsnUMN5KxQlapdHfXgg"
+          class="text-s-purple"
+        />
       </div>
     </div>
     <div class="bg-s-navy p-3 text-center text-xs text-white">
-      © 2022 Swift TechKKK | All rights reserved
+      © 2022 Swift Tech | All rights reserved
     </div>
   </footer>
 </template>

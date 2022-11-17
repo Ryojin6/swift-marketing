@@ -12503,14 +12503,5 @@ ul > li > ul > li > ul {
 ol li {
   font-family: Arial;
 }
-p,
-h1,
-h2,
-h3,
-span,
-a,
-button,
-strong {
-  @apply text-white !important;
-}
+
 </style>

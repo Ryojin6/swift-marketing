@@ -1,6 +1,6 @@
 <template>
   <!-- <div class="bg-gradient-to-b from-black to-n-mBlue"> -->
-  <div class="overflow-hidden bg-s-navy font-sans">
+  <div class="overflow-hidden bg-s-navy font-sans font-semibold">
     <a href="#content" class="sr-only text-blue-600 focus:not-sr-only">
       Skip to main content
     </a>

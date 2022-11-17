@@ -12,8 +12,8 @@
       <button
         :class="
           selected === 'features'
-            ? 'bg-s-navy text-white'
-            : 'bg-s-navyLight text-s-purple'
+            ? 'bg-s-navyLight text-s-purple'
+            : 'bg-s-navy text-white'
         "
         @click="selected = 'features'"
         type="button"
@@ -24,8 +24,8 @@
       <button
         :class="
           selected === 'modules'
-            ? 'bg-s-navy text-white'
-            : 'bg-s-navyLight text-s-purple'
+            ? 'bg-s-navyLight text-s-purple'
+            : 'bg-s-navy text-white'
         "
         @click="selected = 'modules'"
         type="button"
