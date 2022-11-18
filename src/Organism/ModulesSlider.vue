@@ -8,7 +8,7 @@
       :settings="hooperSettings"
     >
       <slide>
-        <AtomInner
+        <div
           class="grid gap-10 text-white sm:grid-cols-2 lg:grid-cols-3 xl:gap-12"
         >
           <MoleculeCard
@@ -58,10 +58,10 @@
         user custom inputs. Along with sniping, we support bulk actions like listing, sweeping, 
         bidding, and canceling for collections and NFTs."
           />
-        </AtomInner>
+        </div>
       </slide>
       <slide>
-        <AtomInner
+        <div
           class="grid gap-10 text-white sm:grid-cols-2 lg:grid-cols-3 xl:gap-12"
         >
           <MoleculeCard
@@ -109,11 +109,11 @@
             description="Our LaunchMyNFT module supports multi-wallet minting for Solana 
             and APTOS mints, allowing the user to never miss a mint again via LaucnhMyNFT. "
           />
-        </AtomInner>
+        </div>
       </slide>
 
       <!-- <slide>
-        <AtomInner
+        <div
           class="grid gap-10 text-white sm:grid-cols-2 lg:grid-cols-3 xl:gap-12"
         >
          <MoleculeCard
@@ -161,7 +161,7 @@
             description="Our LaunchMyNFT module supports multi-wallet minting for Solana 
             and APTOS mints, allowing the user to never miss a mint again via LaucnhMyNFT. "
           />
-        </AtomInner>
+        </div>
       </slide> -->
 
       <hooper-pagination slot="hooper-addons" />
