@@ -1,5 +1,5 @@
 <template>
-  <TemplateDefault homepage class="relative bg-s-navy !text-white">
+  <TemplateDefault  class="relative bg-s-navy !text-white">
     <div class="prose-white prose mx-auto max-w-6xl px-4 py-32">
       <div>
         <strong

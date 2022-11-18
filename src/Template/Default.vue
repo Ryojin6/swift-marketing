@@ -6,7 +6,7 @@
     </a>
     <AtomIeBanner />
     <div class="">
-      <OrganismHeader v-if="homepage" />
+      <OrganismHeader :homepage="homepage" />
       <div id="content" />
       <slot />
       <OrganismFooter />

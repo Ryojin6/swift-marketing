@@ -1,7 +1,14 @@
 <template>
   <a
+    v-if="homepage"
     href="#"
     v-scroll-to="item.link"
+    class="menu-item relative transition-all duration-300 ease-in-out scrolled:text-base"
+    >{{ item.label }}</a
+  >
+  <a
+    v-else
+    :href="'/' + item.link"
     class="menu-item relative transition-all duration-300 ease-in-out scrolled:text-base"
     >{{ item.label }}</a
   >
@@ -11,6 +18,10 @@
 export default {
   props: {
     inverted: {
+      type: Boolean,
+      default: false,
+    },
+    homepage: {
       type: Boolean,
       default: false,
     },
