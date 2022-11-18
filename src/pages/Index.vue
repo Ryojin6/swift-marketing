@@ -26,7 +26,7 @@
           </defs>
         </svg>
       </div>
-      <div class="mx-auto w-full max-w-8xl pb-10">
+      <div class="mx-auto w-full max-w-8xl py-10">
         <div class="z-10 mx-auto w-full space-y-10 text-white md:flex">
           <AtomAnimate position="left" class="md:w-1/2">
             <h1 class="textXLarge gradientText">
