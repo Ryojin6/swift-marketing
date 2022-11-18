@@ -21,7 +21,7 @@
             >
             <g-link
               class="custom-transition hover:text-lab-pink"
-              to="https://dashboard.swifttech.app/
+              to="https://discord.gg/swift-tech
 "
             >
               Support</g-link

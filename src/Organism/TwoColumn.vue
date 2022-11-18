@@ -16,7 +16,7 @@
           {{ title }}
         </h3>
         <div class="textSmall prose pt-6 text-gray-400" v-html="description" />
-        <AtomPlainLink :to="link" class="btn mt-10 self-start" v-if="link">
+        <AtomPlainLink :to="link" class="btn z-20 mt-10 self-start" v-if="link">
           {{ buttonTitle }}
         </AtomPlainLink>
         <slot />

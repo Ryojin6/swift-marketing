@@ -46,7 +46,7 @@
           <MoleculeCard
             image="/s17.png"
             subtitle="Smooth NFT Aggregation"
-            title="Bulk Sweep, Sell ,Cancel , Bid "
+            title="Bulk Sweep, Sell, Cancel, Bid"
             description="NFT aggregation has never been better. With multi-marketplace 
             support, we give users full accessibility to ensure they can finish the
              trade while never needing to leave the app."
