@@ -1,7 +1,7 @@
 <template>
   <footer class="bg-s-charcoal">
     <div
-      class="flex flex-col items-center justify-between border-t border-b border-gray-400 py-4 px-8 text-center text-xs text-white md:flex-row xl:px-12"
+      class="flex flex-col items-center justify-between border-t border-b border-gray-400 py-4 px-8 text-center text-xs text-white md:flex-row md:text-left xl:px-12"
     >
       <div class="flex items-center justify-between space-x-4 text-right">
         <img src="/logo.png" alt="" />
