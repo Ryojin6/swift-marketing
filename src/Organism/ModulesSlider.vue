@@ -87,35 +87,7 @@
             description="Our Blur.io module is packed with utilities allowing the user to
              monitor, snipe, sweep, list, and cancel NFT listings, all with a touch of a button. "
           />
-          <MoleculeCard
-            image="/s4.png"
-            subtitle="Raffle Botting"
-            title="Premint"
-            description="Our Premint module gives our users full control over their accounts
-             to help them mass enter and win multiple raffles at a time with a single touch of
-              a button."
-          />
-          <MoleculeCard
-            image="/s5.png"
-            subtitle="Minting"
-            title="FAIR.XYZ"
-            description="Our FAIR.XYZ module allows users to mass mint with multiple wallets 
-            via the FAIR platform giving users the ability to secure the mint on the mint day.  "
-          />
-          <MoleculeCard
-            image="/s6.png"
-            subtitle="Minting"
-            title="LaunchMyNFT"
-            description="Our LaunchMyNFT module supports multi-wallet minting for Solana 
-            and APTOS mints, allowing the user to never miss a mint again via LaucnhMyNFT. "
-          />
-        </AtomInner>
-      </slide>
 
-      <slide>
-        <AtomInner
-          class="grid gap-10 text-white sm:grid-cols-2 lg:grid-cols-3 xl:gap-12"
-        >
           <MoleculeCard
             image="/s7.png"
             subtitle="Minting / Sniping"
@@ -130,6 +102,36 @@
             description="Our Magic Eden Module allows users to both mint and snipe Solana/Ethereum
              NFTs on their platform based on user inputs. "
           />
+          <MoleculeCard
+            image="/s6.png"
+            subtitle="Minting"
+            title="LaunchMyNFT"
+            description="Our LaunchMyNFT module supports multi-wallet minting for Solana 
+            and APTOS mints, allowing the user to never miss a mint again via LaucnhMyNFT. "
+          />
+        </AtomInner>
+      </slide>
+
+      <!-- <slide>
+        <AtomInner
+          class="grid gap-10 text-white sm:grid-cols-2 lg:grid-cols-3 xl:gap-12"
+        >
+         <MoleculeCard
+            image="/s4.png"
+            subtitle="Raffle Botting"
+            title="Premint"
+            description="Our Premint module gives our users full control over their accounts
+             to help them mass enter and win multiple raffles at a time with a single touch of
+              a button."
+          />
+          <MoleculeCard
+            image="/s5.png"
+            subtitle="Minting"
+            title="FAIR.XYZ"
+            description="Our FAIR.XYZ module allows users to mass mint with multiple wallets 
+            via the FAIR platform giving users the ability to secure the mint on the mint day.  "
+          />
+         
           <MoleculeCard
             image="/s9.png"
             subtitle="Minting"
@@ -160,7 +162,7 @@
             and APTOS mints, allowing the user to never miss a mint again via LaucnhMyNFT. "
           />
         </AtomInner>
-      </slide>
+      </slide> -->
 
       <hooper-pagination slot="hooper-addons" />
     </hooper>

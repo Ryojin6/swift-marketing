@@ -1,6 +1,6 @@
 <template>
-  <TemplateDefault homepage class="relative bg-s-navy py-32 !text-white">
-    <div class="prose-white prose mx-auto max-w-6xl px-4">
+  <TemplateDefault homepage class="relative bg-s-navy !text-white">
+    <div class="prose-white prose mx-auto max-w-6xl px-4 py-32">
       <div align="center" style="text-align: left; line-height: 1.5">
         <div
           align="center"
@@ -1528,7 +1528,7 @@ Arial;color:#595959;mso-themecolor:text1;mso-themetint:166;"
                     widows: 2;
                     word-spacing: 0px;
                     -webkit-text-stroke-width: 0px;
-                    background-color: rgb(255, 255, 255);
+
                     text-decoration-style: initial;
                     text-decoration-color: initial;
                     color: rgb(89, 89, 89);
@@ -1563,7 +1563,7 @@ Arial;color:#595959;mso-themecolor:text1;mso-themetint:166;"
                       widows: 2;
                       word-spacing: 0px;
                       -webkit-text-stroke-width: 0px;
-                      background-color: rgb(255, 255, 255);
+
                       text-decoration-style: initial;
                       text-decoration-color: initial;
                       color: rgb(89, 89, 89);
@@ -1586,7 +1586,7 @@ Arial;color:#595959;mso-themecolor:text1;mso-themetint:166;"
                           widows: 2;
                           word-spacing: 0px;
                           -webkit-text-stroke-width: 0px;
-                          background-color: rgb(255, 255, 255);
+
                           text-decoration-style: initial;
                           text-decoration-color: initial;
                           color: rgb(89, 89, 89);
@@ -1623,7 +1623,7 @@ Arial;color:#595959;mso-themecolor:text1;mso-themetint:166;"
                       widows: 2;
                       word-spacing: 0px;
                       -webkit-text-stroke-width: 0px;
-                      background-color: rgb(255, 255, 255);
+
                       text-decoration-style: initial;
                       text-decoration-color: initial;
                       color: rgb(89, 89, 89);
@@ -1646,7 +1646,7 @@ Arial;color:#595959;mso-themecolor:text1;mso-themetint:166;"
                           widows: 2;
                           word-spacing: 0px;
                           -webkit-text-stroke-width: 0px;
-                          background-color: rgb(255, 255, 255);
+
                           text-decoration-style: initial;
                           text-decoration-color: initial;
                           color: rgb(89, 89, 89);
@@ -1685,7 +1685,7 @@ Arial;color:#595959;mso-themecolor:text1;mso-themetint:166;"
                       widows: 2;
                       word-spacing: 0px;
                       -webkit-text-stroke-width: 0px;
-                      background-color: rgb(255, 255, 255);
+
                       text-decoration-style: initial;
                       text-decoration-color: initial;
                       color: rgb(89, 89, 89);
@@ -1708,7 +1708,7 @@ Arial;color:#595959;mso-themecolor:text1;mso-themetint:166;"
                           widows: 2;
                           word-spacing: 0px;
                           -webkit-text-stroke-width: 0px;
-                          background-color: rgb(255, 255, 255);
+
                           text-decoration-style: initial;
                           text-decoration-color: initial;
                           color: rgb(89, 89, 89);
@@ -1744,7 +1744,7 @@ Arial;color:#595959;mso-themecolor:text1;mso-themetint:166;"
                       widows: 2;
                       word-spacing: 0px;
                       -webkit-text-stroke-width: 0px;
-                      background-color: rgb(255, 255, 255);
+
                       text-decoration-style: initial;
                       text-decoration-color: initial;
                       color: rgb(89, 89, 89);
@@ -1767,7 +1767,7 @@ Arial;color:#595959;mso-themecolor:text1;mso-themetint:166;"
                           widows: 2;
                           word-spacing: 0px;
                           -webkit-text-stroke-width: 0px;
-                          background-color: rgb(255, 255, 255);
+
                           text-decoration-style: initial;
                           text-decoration-color: initial;
                           color: rgb(89, 89, 89);
@@ -1803,7 +1803,7 @@ Arial;color:#595959;mso-themecolor:text1;mso-themetint:166;"
                       widows: 2;
                       word-spacing: 0px;
                       -webkit-text-stroke-width: 0px;
-                      background-color: rgb(255, 255, 255);
+
                       text-decoration-style: initial;
                       text-decoration-color: initial;
                       color: rgb(89, 89, 89);
@@ -1826,7 +1826,7 @@ Arial;color:#595959;mso-themecolor:text1;mso-themetint:166;"
                           widows: 2;
                           word-spacing: 0px;
                           -webkit-text-stroke-width: 0px;
-                          background-color: rgb(255, 255, 255);
+
                           text-decoration-style: initial;
                           text-decoration-color: initial;
                           color: rgb(89, 89, 89);
@@ -1862,7 +1862,7 @@ Arial;color:#595959;mso-themecolor:text1;mso-themetint:166;"
                       widows: 2;
                       word-spacing: 0px;
                       -webkit-text-stroke-width: 0px;
-                      background-color: rgb(255, 255, 255);
+
                       text-decoration-style: initial;
                       text-decoration-color: initial;
                       color: rgb(89, 89, 89);
@@ -1885,7 +1885,7 @@ Arial;color:#595959;mso-themecolor:text1;mso-themetint:166;"
                           widows: 2;
                           word-spacing: 0px;
                           -webkit-text-stroke-width: 0px;
-                          background-color: rgb(255, 255, 255);
+
                           text-decoration-style: initial;
                           text-decoration-color: initial;
                           color: rgb(89, 89, 89);
@@ -1921,7 +1921,7 @@ Arial;color:#595959;mso-themecolor:text1;mso-themetint:166;"
                       widows: 2;
                       word-spacing: 0px;
                       -webkit-text-stroke-width: 0px;
-                      background-color: rgb(255, 255, 255);
+
                       text-decoration-style: initial;
                       text-decoration-color: initial;
                       color: rgb(89, 89, 89);
@@ -1944,7 +1944,7 @@ Arial;color:#595959;mso-themecolor:text1;mso-themetint:166;"
                           widows: 2;
                           word-spacing: 0px;
                           -webkit-text-stroke-width: 0px;
-                          background-color: rgb(255, 255, 255);
+
                           text-decoration-style: initial;
                           text-decoration-color: initial;
                           color: rgb(89, 89, 89);
@@ -1980,7 +1980,7 @@ Arial;color:#595959;mso-themecolor:text1;mso-themetint:166;"
                       widows: 2;
                       word-spacing: 0px;
                       -webkit-text-stroke-width: 0px;
-                      background-color: rgb(255, 255, 255);
+
                       text-decoration-style: initial;
                       text-decoration-color: initial;
                       color: rgb(89, 89, 89);
@@ -2003,7 +2003,7 @@ Arial;color:#595959;mso-themecolor:text1;mso-themetint:166;"
                           widows: 2;
                           word-spacing: 0px;
                           -webkit-text-stroke-width: 0px;
-                          background-color: rgb(255, 255, 255);
+
                           text-decoration-style: initial;
                           text-decoration-color: initial;
                           color: rgb(89, 89, 89);
@@ -2045,7 +2045,7 @@ Arial;color:#595959;mso-themecolor:text1;mso-themetint:166;"
                       widows: 2;
                       word-spacing: 0px;
                       -webkit-text-stroke-width: 0px;
-                      background-color: rgb(255, 255, 255);
+
                       text-decoration-style: initial;
                       text-decoration-color: initial;
                       color: rgb(89, 89, 89);
@@ -2068,7 +2068,7 @@ Arial;color:#595959;mso-themecolor:text1;mso-themetint:166;"
                           widows: 2;
                           word-spacing: 0px;
                           -webkit-text-stroke-width: 0px;
-                          background-color: rgb(255, 255, 255);
+
                           text-decoration-style: initial;
                           text-decoration-color: initial;
                           color: rgb(89, 89, 89);
@@ -2106,7 +2106,7 @@ Arial;color:#595959;mso-themecolor:text1;mso-themetint:166;"
                       widows: 2;
                       word-spacing: 0px;
                       -webkit-text-stroke-width: 0px;
-                      background-color: rgb(255, 255, 255);
+
                       text-decoration-style: initial;
                       text-decoration-color: initial;
                       color: rgb(89, 89, 89);
@@ -2129,7 +2129,7 @@ Arial;color:#595959;mso-themecolor:text1;mso-themetint:166;"
                           widows: 2;
                           word-spacing: 0px;
                           -webkit-text-stroke-width: 0px;
-                          background-color: rgb(255, 255, 255);
+
                           text-decoration-style: initial;
                           text-decoration-color: initial;
                           color: rgb(89, 89, 89);
@@ -2165,7 +2165,7 @@ Arial;color:#595959;mso-themecolor:text1;mso-themetint:166;"
                       widows: 2;
                       word-spacing: 0px;
                       -webkit-text-stroke-width: 0px;
-                      background-color: rgb(255, 255, 255);
+
                       text-decoration-style: initial;
                       text-decoration-color: initial;
                       color: rgb(89, 89, 89);
@@ -2188,7 +2188,7 @@ Arial;color:#595959;mso-themecolor:text1;mso-themetint:166;"
                           widows: 2;
                           word-spacing: 0px;
                           -webkit-text-stroke-width: 0px;
-                          background-color: rgb(255, 255, 255);
+
                           text-decoration-style: initial;
                           text-decoration-color: initial;
                           color: rgb(89, 89, 89);
@@ -2224,7 +2224,7 @@ Arial;color:#595959;mso-themecolor:text1;mso-themetint:166;"
                       widows: 2;
                       word-spacing: 0px;
                       -webkit-text-stroke-width: 0px;
-                      background-color: rgb(255, 255, 255);
+
                       text-decoration-style: initial;
                       text-decoration-color: initial;
                       color: rgb(89, 89, 89);
@@ -2247,7 +2247,7 @@ Arial;color:#595959;mso-themecolor:text1;mso-themetint:166;"
                           widows: 2;
                           word-spacing: 0px;
                           -webkit-text-stroke-width: 0px;
-                          background-color: rgb(255, 255, 255);
+
                           text-decoration-style: initial;
                           text-decoration-color: initial;
                           color: rgb(89, 89, 89);
@@ -2289,7 +2289,7 @@ Arial;color:#595959;mso-themecolor:text1;mso-themetint:166;"
                       widows: 2;
                       word-spacing: 0px;
                       -webkit-text-stroke-width: 0px;
-                      background-color: rgb(255, 255, 255);
+
                       text-decoration-style: initial;
                       text-decoration-color: initial;
                       color: rgb(89, 89, 89);
@@ -2312,7 +2312,7 @@ Arial;color:#595959;mso-themecolor:text1;mso-themetint:166;"
                           widows: 2;
                           word-spacing: 0px;
                           -webkit-text-stroke-width: 0px;
-                          background-color: rgb(255, 255, 255);
+
                           text-decoration-style: initial;
                           text-decoration-color: initial;
                           color: rgb(89, 89, 89);
@@ -2349,7 +2349,7 @@ Arial;color:#595959;mso-themecolor:text1;mso-themetint:166;"
                       widows: 2;
                       word-spacing: 0px;
                       -webkit-text-stroke-width: 0px;
-                      background-color: rgb(255, 255, 255);
+
                       text-decoration-style: initial;
                       text-decoration-color: initial;
                       color: rgb(89, 89, 89);
@@ -2372,7 +2372,7 @@ Arial;color:#595959;mso-themecolor:text1;mso-themetint:166;"
                           widows: 2;
                           word-spacing: 0px;
                           -webkit-text-stroke-width: 0px;
-                          background-color: rgb(255, 255, 255);
+
                           text-decoration-style: initial;
                           text-decoration-color: initial;
                           color: rgb(89, 89, 89);
@@ -2409,7 +2409,7 @@ Arial;color:#595959;mso-themecolor:text1;mso-themetint:166;"
                       widows: 2;
                       word-spacing: 0px;
                       -webkit-text-stroke-width: 0px;
-                      background-color: rgb(255, 255, 255);
+
                       text-decoration-style: initial;
                       text-decoration-color: initial;
                       color: rgb(89, 89, 89);
@@ -2432,7 +2432,7 @@ Arial;color:#595959;mso-themecolor:text1;mso-themetint:166;"
                           widows: 2;
                           word-spacing: 0px;
                           -webkit-text-stroke-width: 0px;
-                          background-color: rgb(255, 255, 255);
+
                           text-decoration-style: initial;
                           text-decoration-color: initial;
                           color: rgb(89, 89, 89);
@@ -2469,7 +2469,7 @@ Arial;color:#595959;mso-themecolor:text1;mso-themetint:166;"
                       widows: 2;
                       word-spacing: 0px;
                       -webkit-text-stroke-width: 0px;
-                      background-color: rgb(255, 255, 255);
+
                       text-decoration-style: initial;
                       text-decoration-color: initial;
                       color: rgb(89, 89, 89);
@@ -2492,7 +2492,7 @@ Arial;color:#595959;mso-themecolor:text1;mso-themetint:166;"
                           widows: 2;
                           word-spacing: 0px;
                           -webkit-text-stroke-width: 0px;
-                          background-color: rgb(255, 255, 255);
+
                           text-decoration-style: initial;
                           text-decoration-color: initial;
                           color: rgb(89, 89, 89);
@@ -2529,7 +2529,7 @@ Arial;color:#595959;mso-themecolor:text1;mso-themetint:166;"
                       widows: 2;
                       word-spacing: 0px;
                       -webkit-text-stroke-width: 0px;
-                      background-color: rgb(255, 255, 255);
+
                       text-decoration-style: initial;
                       text-decoration-color: initial;
                       color: rgb(89, 89, 89);
@@ -2552,7 +2552,7 @@ Arial;color:#595959;mso-themecolor:text1;mso-themetint:166;"
                           widows: 2;
                           word-spacing: 0px;
                           -webkit-text-stroke-width: 0px;
-                          background-color: rgb(255, 255, 255);
+
                           text-decoration-style: initial;
                           text-decoration-color: initial;
                           color: rgb(89, 89, 89);
@@ -2590,7 +2590,7 @@ Arial;color:#595959;mso-themecolor:text1;mso-themetint:166;"
                       widows: 2;
                       word-spacing: 0px;
                       -webkit-text-stroke-width: 0px;
-                      background-color: rgb(255, 255, 255);
+
                       text-decoration-style: initial;
                       text-decoration-color: initial;
                       color: rgb(89, 89, 89);
@@ -2613,7 +2613,7 @@ Arial;color:#595959;mso-themecolor:text1;mso-themetint:166;"
                           widows: 2;
                           word-spacing: 0px;
                           -webkit-text-stroke-width: 0px;
-                          background-color: rgb(255, 255, 255);
+
                           text-decoration-style: initial;
                           text-decoration-color: initial;
                           color: rgb(89, 89, 89);
@@ -2654,7 +2654,7 @@ Arial;color:#595959;mso-themecolor:text1;mso-themetint:166;"
                       widows: 2;
                       word-spacing: 0px;
                       -webkit-text-stroke-width: 0px;
-                      background-color: rgb(255, 255, 255);
+
                       text-decoration-style: initial;
                       text-decoration-color: initial;
                       color: rgb(89, 89, 89);
@@ -2677,7 +2677,7 @@ Arial;color:#595959;mso-themecolor:text1;mso-themetint:166;"
                           widows: 2;
                           word-spacing: 0px;
                           -webkit-text-stroke-width: 0px;
-                          background-color: rgb(255, 255, 255);
+
                           text-decoration-style: initial;
                           text-decoration-color: initial;
                           color: rgb(89, 89, 89);
@@ -2713,7 +2713,7 @@ Arial;color:#595959;mso-themecolor:text1;mso-themetint:166;"
                       widows: 2;
                       word-spacing: 0px;
                       -webkit-text-stroke-width: 0px;
-                      background-color: rgb(255, 255, 255);
+
                       text-decoration-style: initial;
                       text-decoration-color: initial;
                       color: rgb(89, 89, 89);
@@ -2736,7 +2736,7 @@ Arial;color:#595959;mso-themecolor:text1;mso-themetint:166;"
                           widows: 2;
                           word-spacing: 0px;
                           -webkit-text-stroke-width: 0px;
-                          background-color: rgb(255, 255, 255);
+
                           text-decoration-style: initial;
                           text-decoration-color: initial;
                           color: rgb(89, 89, 89);
@@ -2775,7 +2775,7 @@ Arial;color:#595959;mso-themecolor:text1;mso-themetint:166;"
                       widows: 2;
                       word-spacing: 0px;
                       -webkit-text-stroke-width: 0px;
-                      background-color: rgb(255, 255, 255);
+
                       text-decoration-style: initial;
                       text-decoration-color: initial;
                       color: rgb(89, 89, 89);
@@ -2798,7 +2798,7 @@ Arial;color:#595959;mso-themecolor:text1;mso-themetint:166;"
                           widows: 2;
                           word-spacing: 0px;
                           -webkit-text-stroke-width: 0px;
-                          background-color: rgb(255, 255, 255);
+
                           text-decoration-style: initial;
                           text-decoration-color: initial;
                           color: rgb(89, 89, 89);

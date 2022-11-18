@@ -1,6 +1,6 @@
 <template>
-  <TemplateDefault homepage class="relative bg-s-navy py-32 !text-white">
-    <div class="prose-white prose mx-auto max-w-6xl px-4">
+  <TemplateDefault homepage class="relative bg-s-navy !text-white">
+    <div class="prose-white prose mx-auto max-w-6xl px-4 py-32">
       <div>
         <strong
           ><span style="font-size: 26px"
@@ -12490,18 +12490,3 @@
   </TemplateDefault>
 </template>
 
-<style>
-ul {
-  list-style-type: square;
-}
-ul > li > ul {
-  list-style-type: circle;
-}
-ul > li > ul > li > ul {
-  list-style-type: square;
-}
-ol li {
-  font-family: Arial;
-}
-
-</style>

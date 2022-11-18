@@ -5,20 +5,20 @@
     <div class="mx-auto flex w-full max-w-8xl items-center">
       <g-link
         to="/"
-        class="w-40 transition-all duration-300 ease-in-out scrolled:w-56 xl:w-56 2xl:w-64 3xl:w-80"
+        class="w-64 transition-all duration-300 ease-in-out scrolled:w-56 xl:w-56 2xl:w-64 3xl:w-80"
       >
         <g-image src="/logo.png" immediate alt="" class="w-full" />
       </g-link>
 
       <div
-        class="order-2 mr-auto flex w-16 max-w-8xl items-center md:order-none md:w-full"
+        class="order-2 mr-auto flex w-12 max-w-8xl items-center md:order-none md:w-full"
       >
         <MoleculeSiteMenu />
       </div>
-      <div class="flex w-full items-center justify-end space-x-4 md:w-auto">
+      <div class="flex w-2/3 items-center justify-end md:w-auto">
         <AtomPlainLink
           to="https://dashboard.swifttech.app/"
-          class="bg-s-darkpuprle custom-transition whitespace-nowrap rounded-xl border border-s-violet px-6 py-3 text-sm font-bold text-white hover:bg-s-violet"
+          class="bg-s-darkpuprle custom-transition whitespace-nowrap rounded-xl border border-s-violet px-3 py-3 text-xs font-bold text-white hover:bg-s-violet md:px-6 md:text-sm"
         >
           Member Dashboard
         </AtomPlainLink>

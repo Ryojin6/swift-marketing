@@ -184,39 +184,48 @@
     <OrganismSlider />
     <AtomSection tp="small" bp="small" class="relative z-10 bg-s-navy">
       <AtomInner>
-        <OrganismTwoColumn
-          reverse
-          class="text-white"
-          subtitle="FAQ"
-          title="Frequently Asked Questions"
-          description="For business / support inquiries please contact us via
-           discord or at support@swifttech.app"
-        >
+        <AtomAnimate class="relative">
           <div
-            class="mt-10 flex justify-between space-x-4 rounded-md bg-gradient-to-r from-s-violet to-s-pink p-5 text-white"
+            class="flex flex-col items-center px-4 lg:flex-row lg:space-x-16"
           >
-            <div class="flex flex-col justify-between">
-              <div>
-                <div class="textSmall font-bold">Follow our Twitter</div>
-                <div class="text-xs">Keep up to date with us!</div>
-              </div>
-              <a
-                href="https://twitter.com/SwiftTechApp"
-                target="_blank"
-                class="textSmall font-bold"
-                >@SwiftTechApp</a
+            <div class="flex flex-col pt-16 lg:w-1/2 lg:pt-0">
+              <h3 class="textLarge gradientText font-bold uppercase">
+                Frequently Asked Questions
+              </h3>
+              <div
+                class="textSmall prose pt-6 text-gray-400"
+                v-html="
+                  `<p>  For business / support inquiries please contact us via
+           discord or at support@swifttech.app</p>`
+                "
+              />
+              <div
+                class="mt-10 flex justify-between space-x-4 rounded-md bg-gradient-to-r from-s-violet to-s-pink p-5 text-white"
               >
+                <div class="flex flex-col justify-between">
+                  <div>
+                    <div class="textSmall font-bold">Follow our Twitter</div>
+                    <div class="text-xs">Keep up to date with us!</div>
+                  </div>
+                  <a
+                    href="https://twitter.com/SwiftTechApp"
+                    target="_blank"
+                    class="textSmall font-bold"
+                    >@SwiftTechApp</a
+                  >
+                </div>
+                <div
+                  class="flex h-24 w-24 items-center justify-center rounded-md bg-white"
+                >
+                  <AtomIconTwitter class="!w-10 text-s-navy" />
+                </div>
+              </div>
             </div>
-            <div
-              class="flex h-24 w-24 items-center justify-center rounded-md bg-white"
-            >
-              <AtomIconTwitter class="!w-10 text-s-navy" />
+            <div class="lg:w-1/2">
+              <OrganismFAQ class="" />
             </div>
           </div>
-          <template #right>
-            <OrganismFAQ />
-          </template>
-        </OrganismTwoColumn>
+        </AtomAnimate>
       </AtomInner>
     </AtomSection>
   </TemplateDefault>

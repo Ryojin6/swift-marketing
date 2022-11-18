@@ -32,10 +32,6 @@
         <AtomIconHamburger :class="{ 'open text-white': toggled }" />
       </button>
     </div>
-
-    <div
-      class="fixed inset-0 h-full w-full transition-all duration-500 ease-in-out xl:hidden"
-    />
   </nav>
 </template>
 

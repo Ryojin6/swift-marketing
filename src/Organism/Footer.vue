@@ -7,16 +7,10 @@
         <img src="/logo.png" alt="" />
       </div>
       <div class="space-x-4">
-        <g-link
-          class="custom-transition hover:text-lab-pink"
-          to="/privacy-policy"
-        >
+        <g-link class="custom-transition hover:text-lab-pink" to="/terms">
           Terms and Conditions</g-link
         >
-        <g-link
-          class="custom-transition hover:text-lab-pink"
-          to="/privacy-policy"
-        >
+        <g-link class="custom-transition hover:text-lab-pink" to="/privacy">
           Privacy Policy</g-link
         >
       </div>

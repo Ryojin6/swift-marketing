@@ -1,6 +1,6 @@
 <template>
   <div class="relative">
-    <div class="flex flex-col items-center px-4">
+    <div class="flex flex-col items-center md:px-4">
       <div class="w-full">
         <img :src="image" alt="" class="w-full" />
       </div>
@@ -8,7 +8,7 @@
         <h2 v-if="subtitle" class="text-sm font-bold uppercase text-s-blue">
           {{ subtitle }}
         </h2>
-        <h3 class="textMedium font-bold uppercase">
+        <h3 class="textMedium text-left font-bold uppercase">
           {{ title }}
         </h3>
         <div

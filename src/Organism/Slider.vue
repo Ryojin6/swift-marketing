@@ -9,10 +9,10 @@
     >
       <slide>
         <div
-          class="m-4 flex items-center space-x-4 rounded-md border border-s-darkpurple bg-s-navyLight p-4 text-white"
+          class="m-4 flex w-full items-center space-x-4 rounded-md border border-s-darkpurple bg-s-navyLight p-4 text-white"
         >
           <div class="w-16 bg-white/10"><img src="/divine.png" alt="" /></div>
-          <div class="text-sm font-bold">Divine Providence</div>
+          <div class="w-16 text-sm font-bold">Divine Providence</div>
         </div>
       </slide>
       <slide>
@@ -20,7 +20,7 @@
           class="m-4 flex items-center space-x-4 rounded-md border border-s-darkpurple bg-s-navyLight p-4 text-white blur-sm"
         >
           <div class="h-16 w-16 bg-white/10" />
-          <div class="text-sm font-bold">Divine Providence</div>
+          <div class="text-sm font-bold">Placeholder</div>
         </div>
       </slide>
       <slide>
@@ -28,7 +28,7 @@
           class="m-4 flex items-center space-x-4 rounded-md border border-s-darkpurple bg-s-navyLight p-4 text-white blur-sm"
         >
           <div class="h-16 w-16 bg-white/10" />
-          <div class="text-sm font-bold">Divine Providence</div>
+          <div class="text-sm font-bold">Placeholder</div>
         </div>
       </slide>
       <slide>
@@ -36,7 +36,7 @@
           class="m-4 flex items-center space-x-4 rounded-md border border-s-darkpurple bg-s-navyLight p-4 text-white blur-sm"
         >
           <div class="h-16 w-16 bg-white/10" />
-          <div class="text-sm font-bold">Divine Providence</div>
+          <div class="text-sm font-bold">Placeholder</div>
         </div>
       </slide>
       <slide>
@@ -44,7 +44,7 @@
           class="m-4 flex items-center space-x-4 rounded-md border border-s-darkpurple bg-s-navyLight p-4 text-white blur-sm"
         >
           <div class="h-16 w-16 bg-white/10" />
-          <div class="text-sm font-bold">Divine Providence</div>
+          <div class="text-sm font-bold">Placeholder</div>
         </div>
       </slide>
     </hooper>
@@ -75,7 +75,7 @@ export default {
       carouselData: 0,
 
       hooperSettings: {
-        itemsToShow: 2.5,
+        itemsToShow: 1.5,
         centerMode: true,
         autoPlay: true,
         breakpoints: {
