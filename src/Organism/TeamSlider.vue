@@ -303,7 +303,7 @@
     >
       <div class="flex items-center justify-between">
         <button
-          class="-ml-6 lg:-ml-10"
+          class="-ml-2 lg:-ml-10"
           @click.prevent="slidePrev"
           type="button"
         >
@@ -311,7 +311,7 @@
         </button>
 
         <button
-          class="-mr-6 lg:-mr-10"
+          class="-mr-2 lg:-mr-10"
           type="button"
           @click.prevent="slideNext"
         >

@@ -8,7 +8,7 @@
       'pb-0': bp === '0',
       'pb-10': bp === 'small',
       'pb-20 md:pb-32 xl:pb-48': bp === 'large',
-      'px-8 xl:px-12 ': !fullWidth,
+      'px-2 xl:px-12 ': !fullWidth,
     }"
   >
     <slot />
