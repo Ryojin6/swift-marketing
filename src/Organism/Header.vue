@@ -5,7 +5,7 @@
     <div class="mx-auto flex w-full max-w-8xl items-center">
       <g-link
         to="/"
-        class="w-64 transition-all duration-300 ease-in-out scrolled:w-56 xl:w-56 2xl:w-64 3xl:w-80"
+        class="-ml-4 w-64 transition-all duration-300 ease-in-out scrolled:w-56 xl:w-56 2xl:w-64 3xl:w-80"
       >
         <g-image src="/logo.png" immediate alt="" class="w-full" />
       </g-link>

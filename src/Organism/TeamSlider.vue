@@ -21,7 +21,7 @@
             </a>
             <div class="flex w-full flex-col pt-6">
               <h2 class="text-sm font-bold uppercase text-s-blue">Founder</h2>
-              <h3 class="textMedium font-bold uppercase">Brice Lloyd</h3>
+              <h3 class="textMedium font-bold uppercase">brixxx#0001</h3>
               <div
                 class="textSmall prose w-full max-w-none pt-6 !text-gray-500"
               >
