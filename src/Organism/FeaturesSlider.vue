@@ -28,7 +28,7 @@
     />
     <MoleculeCard
       image="/s16.png"
-      subtitle="Trakcing and Analysis"
+      subtitle="Tracking and Analysis"
       title="In Depth Portfolio Insights"
       description="Getting insights for your portfolio has never been easier 
             with Swift. Straight from our dashboard, our users can get clear and
