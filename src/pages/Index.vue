@@ -141,11 +141,8 @@
               Welcome to a top of the line user experience.
             </div>
             <div class="flex space-x-4">
-              <AtomPlainLink
-                to="https://www.youtube.com/channel/UCkSgAsnUMN5KxQlapdHfXgg"
-                class="btn"
-              >
-                View on Youtube
+              <AtomPlainLink to="https://download.swifttech.app/" class="btn">
+                Download Now
               </AtomPlainLink>
               <AtomPlainLink
                 to="https://discord.gg/swift-tech"

@@ -193,7 +193,7 @@
               <div
                 class="textSmall prose w-full max-w-none pt-6 !text-gray-500"
               >
-                Experienced fullstack developper. Having fun in multiples
+                Experienced fullstack developer. Having fun in multiples
                 projects using Nodejs and Typescript.
               </div>
             </div>
